@@ -1,12 +1,54 @@
 Installing the mod
 
-Place the following files below in BLUS30443>PS3_GAME>USRDIR>script:
+Place the script files listed below in BLUS30443>PS3_GAME>USRDIR>script:
 m02.luabnd
 m02.luabnd.dcx
 
-Place the sfx files below in BLUS30443>PS3_GAME>USRDIR>sfx:
+Place the sfx files listed below in BLUS30443>PS3_GAME>USRDIR>sfx:
 ds_sfxbnd_commoneffects.ffxbnd
 ds_sfxbnd_commoneffects.ffxbnd.dcx
+
+Place the anibnd files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>chr>c0000
+c0000.anibnd
+c0000.anibnd.dcx
+c0000_a2x.anibnd
+c0000_a2x.anibnd.dcx
+c0000_a3x.anibnd
+c0000_a3x.anibnd.dcx
+c0000_a4x.anibnd
+c0000_a4x.anibnd.dcx
+
+Place the gameparam files listed below in BLUS30443>PS3_GAME>USRDIR>param>gameparam
+gameparam.parambnd
+gameparam.parambnd.dcx
+gameparamna.parambnd
+gameparamna.parambnd.dcx
+
+Place the text files listed below in BLUS30443>PS3_GAME>USRDIR>msg>na_english
+menu.msgbnd
+menu.msgbnd.dcx
+item.msgbnd
+item.msgbnd.dcx
+
+Place the map files listed below in BLUS30443>PS3_GAME>USRDIR>map>mapstudio
+m01_00_00_00.msb
+m02_00_00_00.msb
+m02_01_00_00.msb
+m02_02_00_00.msb
+m02_03_00_00.msb
+m03_01_00_00.msb
+m03_02_00_00.msb
+m03_03_00_00.msb
+m04_00_00_00.msb
+m04_01_00_00.msb
+m04_02_00_00.msb
+m05_00_00_00.msb
+m05_01_00_00.msb
+m05_02_00_00.msb
+m06_00_00_00.msb
+m06_01_00_00.msb
+m06_02_00_00.msb
+
 
 ....
 
