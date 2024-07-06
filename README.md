@@ -1,100 +1,114 @@
-Installing the mod
+Foreword:
 
-Place the script files listed below in BLUS30443>PS3_GAME>USRDIR>script:
+Hi All, I'm Astri. I've been playing the Soulsborne games since Demon's Souls starting ~2010. Demon's Souls was my first online game and stands as one of my favorite games of all time. I've easily poured thousands of hours into it, creating new builds, partaking in jolly co-operation, dueling, and invading. I was one of only a handful of pure mages frequenting the PvP scene and am primarily known for my skill with spellcasting tech. I'm also a moderator of the Demon's Souls discord, although I have not been very active there in a long time.
 
-m02.luabnd
+After the release of the Demon's Souls remake in 2020 and feeling disappointment in the shape it was left in, I decided to start the ambitious project of modding the original game with a massive overhaul. I frankly had no modding experience prior to this, but with a lot of determination, three full restarts of the project due to file corruption, and occasional guidance from incredibly nice people in the Souls modding community like Thens and kingbore, I was able to bring this idea to fruition. All of the edits in the mod were made by my own hands, so it is truly a labor of love that I hope you all enjoy.
 
-m02.luabnd.dcx
+----------------------------------
 
+WARNING: BEFORE YOU INSTALL, PLEASE BE AWARE THAT THE CONTENTS OF THIS MOD ARE NOT APPROVED FOR USE ONLINE. THIS WOULD ONLY BE ACCEPTABLE ON A SERVER DEDICATED TO THE MOD, WHICH I DO NOT HAVE THE BANDWIDTH TO CREATE OR MANAGE.
 
-Place the sfx files listed below in BLUS30443>PS3_GAME>USRDIR>sfx:
+----------------------------------
 
-ds_sfxbnd_commoneffects.ffxbnd
+Installing the mod:
 
-ds_sfxbnd_commoneffects.ffxbnd.dcx
+The mod files are divided into the root path they should go in. Drag and drop the files within your game folders matching their respective root paths to replace the vanilla files. On PC, it will prompt you asking if you want to replace the files for every file. DO NOT DRAG AND DROP WHOLE FOLDERS. I have NOT included the vanilla files. I've listed all of the mod files and their root paths below. Use this as a checklist to ensure you correctly install the mod.
 
+Replace the script files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>script:
 
-Place the anibnd files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>chr>c0000
+m02.luabnd  []
 
-c0000.anibnd
-
-c0000.anibnd.dcx
-
-c0000_a2x.anibnd
-
-c0000_a2x.anibnd.dcx
-
-c0000_a3x.anibnd
-
-c0000_a3x.anibnd.dcx
-
-c0000_a4x.anibnd
-
-c0000_a4x.anibnd.dcx
+m02.luabnd.dcx  []
 
 
-Place the gameparam files listed below in BLUS30443>PS3_GAME>USRDIR>param>gameparam
+Replace the sfx files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>sfx:
 
-gameparam.parambnd
+ds_sfxbnd_commoneffects.ffxbnd  []
 
-gameparam.parambnd.dcx
-
-gameparamna.parambnd
-
-gameparamna.parambnd.dcx
+ds_sfxbnd_commoneffects.ffxbnd.dcx  []
 
 
-Place the text files listed below in BLUS30443>PS3_GAME>USRDIR>msg>na_english
+Replace the anibnd files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>chr>c0000
 
-menu.msgbnd
+c0000.anibnd  []
 
-menu.msgbnd.dcx
+c0000.anibnd.dcx  []
 
-item.msgbnd
+c0000_a2x.anibnd  []
 
-item.msgbnd.dcx
+c0000_a2x.anibnd.dcx  []
 
+c0000_a3x.anibnd  []
 
-Place the map files listed below in BLUS30443>PS3_GAME>USRDIR>map>mapstudio
+c0000_a3x.anibnd.dcx  []
 
-m01_00_00_00.msb
+c0000_a4x.anibnd  []
 
-m02_00_00_00.msb
-
-m02_01_00_00.msb
-
-m02_02_00_00.msb
-
-m02_03_00_00.msb
-
-m03_01_00_00.msb
-
-m03_02_00_00.msb
-
-m03_03_00_00.msb
-
-m04_00_00_00.msb
-
-m04_01_00_00.msb
-
-m04_02_00_00.msb
-
-m05_00_00_00.msb
-
-m05_01_00_00.msb
-
-m05_02_00_00.msb
-
-m06_00_00_00.msb
-
-m06_01_00_00.msb
-
-m06_02_00_00.msb
+c0000_a4x.anibnd.dcx  []
 
 
-....
+Replace the gameparam files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>param>gameparam
 
-DeSRevMod_v1.00
+gameparam.parambnd  []
+
+gameparam.parambnd.dcx  []
+
+gameparamna.parambnd  []
+
+gameparamna.parambnd.dcx  []
+
+
+Replace the text files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>msg>na_english
+
+menu.msgbnd  []
+
+menu.msgbnd.dcx  []
+
+item.msgbnd  []
+
+item.msgbnd.dcx  []
+
+
+Replace the map files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>map>mapstudio
+
+m01_00_00_00.msb  []
+
+m02_00_00_00.msb  []
+
+m02_01_00_00.msb  []
+
+m02_02_00_00.msb  []
+
+m02_03_00_00.msb  []
+
+m03_01_00_00.msb  []
+
+m03_02_00_00.msb  []
+
+m03_03_00_00.msb  []
+
+m04_00_00_00.msb  []
+
+m04_01_00_00.msb  []
+
+m04_02_00_00.msb  []
+
+m05_00_00_00.msb  []
+
+m05_01_00_00.msb  []
+
+m05_02_00_00.msb  []
+
+m06_00_00_00.msb  []
+
+m06_01_00_00.msb  []
+
+m06_02_00_00.msb  []
+
+
+------------------------
+
+ProjectAstri_v1.00
 
 Weapons
 
@@ -325,6 +339,8 @@ Shields
 -increased stamina damage of left hand large shield bash to 300
 
 -increased Rune Shield magic AR to 40
+
+-increased Rune Shield magic and faith scaling
 
 -increased strength scaling of all Tower Shield variants
 
