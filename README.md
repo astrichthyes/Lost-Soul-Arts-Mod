@@ -294,6 +294,7 @@ Weapons
 
 -reduced scaling for all Crescent Mail Breaker variants
 
+----------------------------------
 
 Attack modifiers
 
@@ -301,6 +302,7 @@ Attack modifiers
 
 -increased stamina damage of left hand large shield bash to 300
 
+----------------------------------
 
 Shields
 
@@ -354,6 +356,7 @@ Shields
 
 -increased magic and faith scaling of all Rune Shield variants
 
+----------------------------------
 
 Armor
 
@@ -373,11 +376,13 @@ Armor
 
 -changed Saint armor set durability to match corresponding Venerable set pieces
 
+----------------------------------
 
 Rings
 
 -reduced all ring weights to 0
 
+----------------------------------
 
 Hypermode
 
@@ -385,6 +390,7 @@ Hypermode
 
 -reduced Morion Blade effect to 30%
 
+----------------------------------
 
 Spells
 
@@ -422,7 +428,7 @@ Spells
 
 -reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff
 
-
+----------------------------------
 
 Status
 
@@ -476,6 +482,7 @@ Status
 
 -added new poison effect to Needle of Eternal Agony with 90s duration, 70% healing cut, (0.3% - 1) dps, and 3 stamina regen penalty
 
+----------------------------------
 
 Regen
 
@@ -493,6 +500,7 @@ Regen
 
 -created new HP drain speffects for fatal weapons; weak effect to daggers and rapiers, stronger effect to spears
 
+----------------------------------
 
 Healing consumables
 
@@ -512,6 +520,7 @@ Healing consumables
 
 -added regeneration aura and status icon for active grass effects
 
+----------------------------------
 
 Non-healing consumables
 
@@ -525,6 +534,7 @@ Non-healing consumables
 
 -added Soul of a Miner to 2-1 treasure corpse
 
+----------------------------------
 
 Ore
 
@@ -534,6 +544,7 @@ Ore
 
 -increased drop rates for ores from various mobs
 
+----------------------------------
 
 Miscellaneous consumables
 
@@ -543,6 +554,7 @@ Miscellaneous consumables
 
 -added Voidstone, an infinite-use item that reduces the player character's soul level by one with each use
 
+----------------------------------
 
 NPC's/Enemies
 
@@ -570,6 +582,7 @@ NPC's/Enemies
 
 -increased Penetrator's magic defense to 132 and decreased fire defense to 97
 
+----------------------------------
 
 Shops
 
@@ -619,6 +632,7 @@ Shops
 
 -added Voidstone in Blacksmith Boldwin NPC shop and set cost to 150 souls
 
+----------------------------------
 
 Cheat Gear
 
@@ -628,6 +642,7 @@ Cheat Gear
 
 -changed Garl's shield to match Dark Silver Shield
 
+----------------------------------
 
 Movesets
 
@@ -647,6 +662,7 @@ Movesets
 
 -changed Needle of Eternal Agony moveset and properties to act like a dagger
 
+----------------------------------
 
 Text
 
@@ -712,6 +728,7 @@ Text
 
 -changed description of Mercurystone to describe scaling changes
 
+----------------------------------
 
 Starting Classes
 
@@ -759,6 +776,7 @@ Starting Classes
 
 -moved Magician wooden catalyst to left hand
 
+----------------------------------
 
 Maps
 
@@ -808,8 +826,8 @@ Maps
 
 -changed the text and/or locations of some developer messages in the Nexus and Stonefang
 
-
-
+----------------------------------
+----------------------------------
 
 Ideas for later:
 
@@ -837,7 +855,7 @@ Ideas for later:
 
 -replace offhand weapon block with diff attack?
 
-
+----------------------------------
 
 To-do:
 
