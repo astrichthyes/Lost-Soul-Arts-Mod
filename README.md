@@ -888,7 +888,11 @@ To-do:
 -new 2h katana r2 animation
 
 -new spell ideas: bearbug explosion, leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
+
 -false moonlight weapon?
+
 -old point of abuse: greatweapon knockdown guarantees free miracle use, consider reducing duration of knockdown or exchanging it for a heavy blow on some attacks?
+
 -change hitstun animation priority for fire weapons?
+
 -remix enemy locations/types; add new NPC invaders as well?
