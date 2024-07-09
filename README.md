@@ -2,7 +2,7 @@ Foreword:
 
 Hi All, I'm Astri. I've been playing the Soulsborne games since Demon's Souls starting ~2010. Demon's Souls was my first online game and stands as one of my favorite games of all time. I've easily poured thousands of hours into it, creating new builds, partaking in jolly co-operation, dueling, and invading. I was one of only a handful of pure mages frequenting the PvP scene and am primarily known for my skill with spellcasting tech. I'm also a moderator of the Demon's Souls discord, although I have not been very active there in a long time.
 
-After the release of the Demon's Souls remake in 2020 and feeling disappointment in the shape it was left in, I decided to start the ambitious project of modding the original game with a massive overhaul to improve game balance and promote build diversity while still preserving the core of the original version (making changes that are not detrimental to either the PvE or PvP experience). I frankly had no modding experience prior to this, but with a lot of determination, three full restarts of the project due to file corruption, and occasional guidance from incredibly nice people in the Souls modding community like Thens and kingbore, I was able to bring this idea to fruition. All of the edits in the mod were made by my own hands, so it is truly a labor of love that I hope you all enjoy.
+After the release of the Demon's Souls remake in 2020 and feeling disappointment in the shape it was left in (password summons not downscaled, negative luck, guaranteed wakeups after backstab, etc.), I decided to start the ambitious project of modding the original game. My vision was a massive overhaul to improve game balance and promote build diversity while still preserving the core of the original version (making changes that are neither detrimental to the PvE nor PvP experience). I frankly had no modding experience prior to this, but with a lot of determination, three full restarts of the project due to file corruption, and occasional guidance from incredibly nice people in the Souls modding community like Thens and kingbore, I was able to bring this idea to fruition. All of the edits in the mod were made by my own hands, so it is truly a labor of love that I hope you all enjoy.
 
 ----------------------------------
 
@@ -266,7 +266,7 @@ Weapons
 
 -increased Blind base physical AR to 90
 
--reduced Makoto base physical AR to 0 for all variants, increased base magic AR to 120, added 18 magic stat requirement, and increased magic scaling to 100+20*upgradelevel
+-reduced Makoto base physical AR to 0 for all variants, increased base magic AR to 115, added 18 magic stat requirement, and increased magic scaling to 100+20*upgradelevel
 
 -reduced Pickaxe dexterity requirement to 6
 
