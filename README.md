@@ -692,6 +692,8 @@ Movesets
 
 -changed Needle of Eternal Agony moveset and properties to act like a dagger
 
+-changed fist weapon R2 attack animation to right hook
+
 ----------------------------------
 
 Text
