@@ -861,29 +861,29 @@ Maps
 
 Ideas for later:
 
--change moveset for 2h L1/L2?
+-change moveset for 2h L1/L2? Likely not possible without affecting shields as well
 
--add riposte vulnerability during guardbreak?
+-add riposte vulnerability during guardbreak? May be hardcoded and very difficult/impossible to mod
 
--deactivate backstab grab for 3sec after backstab?
+-deactivate backstab grab for 3sec after backstab? Likely requires advanced coding
 
--menu option to send items back to Thomas when exceeding item max (deposit only)?
+-menu option to send items back to Thomas when exceeding item max (deposit only)? Likely requires advanced coding
 
--increase ladder climbing speed?
+-increase ladder climbing speed? Likely requires advanced modding
 
--add 3-5sec i-frame window after player spawn?
+-add 3-5sec i-frame window after player spawn? Likely requires advanced coding
 
--fix bad enemy AI?
+-fix bad enemy AI? Likely requires advanced coding
 
--add ring to allow normal movement in swamp? might be tied to NPC-exclusive effect
+-add ring to allow normal movement in swamp? Likely tied to NPC-exclusive effect
 
--blue sentinel type of security mod?
+-blue sentinel type of security mod? Requires advanced programming
 
--eliminate spellswap?
+-eliminate spellswap? Likely not possible, since this is a problem with input queues in the game engine
 
--nerf rapier moveset?
+-nerf rapier rollpokes?
 
--replace offhand weapon block with diff attack?
+-replace offhand weapon block with diff attack? Would likely affect shields as well
 
 ----------------------------------
 
@@ -893,7 +893,7 @@ To-do:
 
 -fix Shotel chip?
 
--reduce rapier class crit multiplier?
+-further reduce rapier class crit multiplier?
 
 -change catalyst strike attack
 
@@ -912,8 +912,6 @@ To-do:
 -eliminate pushlock; delay after L1 or delay after push?
 
 -change fist r2 to more useful attack?
-
--change fist weapon headbutt to kick
 
 -new 2h katana r2 animation
 
