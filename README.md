@@ -14,7 +14,7 @@ What's in the mod:
 
 -Some spells and miracles replaced with new ones....
 
--Many weapons rebalanced/revamped
+-Most weapons rebalanced/revamped
 
 -Modified function/scaling of some upgrade paths
 
@@ -582,7 +582,7 @@ Miscellaneous consumables
 
 -reduced consumable weapon buff weights to 0.1
 
--added Voidstone, an infinite-use item that reduces the player character's soul level by one with each use
+-added Voidstone, an item that reduces the player character's soul level by one
 
 ----------------------------------
 
@@ -694,6 +694,16 @@ Movesets
 
 -changed fist weapon R2 attack animation to right hook
 
+-changed greatsword 1h R2, first 2h R1, 2h running R1, and 1h rolling R1 knockdown to heavy stagger
+
+-changed greatsword second 2h R2 from heavy stagger to knockdown
+
+-increased stamina damage of greatsword second 2h R1 and third 2h R1
+
+-increased attack multipliers of greatsword third 2h R1 and second 2h R2
+
+-changed fist weapon R2 stagger from moderate to heavy
+
 ----------------------------------
 
 Text
@@ -708,7 +718,7 @@ Text
 
 -changed description of Cloudstone to note reduction in fire block stat
 
--changed description of Great Club to describe new bleed effect
+-changed description of Great Club to describe new bleed effect and how to upgrade it
 
 -changed description of all Grasses to describe healing changes
 
@@ -759,6 +769,24 @@ Text
 -added description of Simpleton's Catalyst
 
 -changed description of Mercurystone to describe scaling changes
+
+-changed description of Mailbreaker to describe scaling and weapon class changes
+
+-corrected typo in vanilla description of basic Dagger
+
+-changed description of Secret Dagger to describe new bleed effect
+
+-changed description of Broadsword to describe bleed effect
+
+-changed description of Shotel to describe bleed effect
+
+-changed description of Hiltless to describe bleed effect
+
+-changed description of Blind to describe bleed effect
+
+-changed description of Large Sword of Searching to imply bleed effect
+
+-changed description of War Scythe to describe bleed effect
 
 ----------------------------------
 
