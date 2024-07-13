@@ -378,6 +378,10 @@ Shields
 
 -increased Rune Shield magic and faith scaling
 
+-increased Rune Sword faith requirement to 18
+
+-increased Rune Shield faith requirement to 18
+
 -increased strength scaling of all Tower Shield variants
 
 -increased strength scaling of all Steel Shield variants
@@ -705,6 +709,8 @@ Movesets
 -increased attack multipliers of greatsword third 2h R1 and second 2h R2
 
 -changed fist weapon R2 stagger from moderate to heavy
+
+-changed Hands of God R2 stagger from knockdown to heavy
 
 ----------------------------------
 
