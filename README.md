@@ -945,19 +945,13 @@ To-do:
 
 -shortened recovery after UGS/GA/GH kick? needs testing
 
--increase large shield bash guardbreak; full moveset needs to be done
-
 -eliminate pushlock; delay after L1 or delay after push?
-
--change fist r2 to more useful attack?
 
 -new 2h katana r2 animation
 
 -new spell ideas: bearbug explosion, leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
 
 -false moonlight weapon?
-
--old point of abuse: greatweapon knockdown guarantees free miracle use, consider reducing duration of knockdown or exchanging it for a heavy blow on some attacks?
 
 -change hitstun animation priority for fire weapons?
 
