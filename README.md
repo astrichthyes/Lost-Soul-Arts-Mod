@@ -618,6 +618,8 @@ NPC's/Enemies
 
 -increased Penetrator's magic defense to 132 and decreased fire defense to 97
 
+-increased Ostrava's faith to 18
+
 ----------------------------------
 
 Shops
