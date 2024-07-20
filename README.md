@@ -56,6 +56,8 @@ m02.luabnd  []
 
 m02.luabnd.dcx  []
 
+m02.luabnd.dcx.sdat  []
+
 
 Replace the sfx files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>sfx:
 
