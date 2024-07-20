@@ -923,34 +923,6 @@ Maps
 ----------------------------------
 ----------------------------------
 
-Ideas for later:
-
--change moveset for 2h L1/L2? Likely not possible without affecting shields as well
-
--add riposte vulnerability during guardbreak? May be hardcoded and very difficult/impossible to mod
-
--deactivate backstab grab for 3sec after backstab? Likely requires advanced coding
-
--menu option to send items back to Thomas when exceeding item max (deposit only)? Likely requires advanced coding
-
--increase ladder climbing speed? Likely requires advanced modding
-
--add 3-5sec i-frame window after player spawn? Likely requires advanced coding
-
--fix bad enemy AI? Likely requires advanced coding
-
--add ring to allow normal movement in swamp? Likely tied to NPC-exclusive effect
-
--blue sentinel type of security mod? Requires advanced programming
-
--eliminate spellswap? Likely not possible, since this is a problem with input queues in the game engine
-
--nerf rapier rollpokes?
-
--replace offhand weapon block with diff attack? Would likely affect shields as well
-
-----------------------------------
-
 To-do:
 
 -reduce weapon base AR at lower levels?
@@ -964,8 +936,6 @@ To-do:
 -increase miracle and spell slots?
 
 -increased vulnerability window for guardbreaks? needs testing
-
--eliminate pushlock; delay after L1 or delay after push?
 
 -new 2h katana r2 animation
 
