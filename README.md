@@ -330,6 +330,8 @@ Weapons
 
 -reduced scaling for all Crescent Mail Breaker variants
 
+-increased Morion Blade strength and dex scaling and added Hiltless self-damage effect
+
 ----------------------------------
 
 Attack modifiers
@@ -536,6 +538,8 @@ Regen
 
 -created new HP drain speffects for fatal weapons; weak effect to daggers and rapiers, stronger effect to spears
 
+-reduced MP drain effect on Geri's Stiletto
+
 ----------------------------------
 
 Healing consumables
@@ -608,7 +612,7 @@ NPC's/Enemies
 
 -changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear
 
--changed Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 30, increased faith to 24, increased vit to 30, and increased intelligence to 99
+-changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 30, increased faith to 24, increased vit to 30, and increased intelligence to 99
 
 -changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, removed Steel Shield, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
 
@@ -619,6 +623,10 @@ NPC's/Enemies
 -increased Penetrator's magic defense to 132 and decreased fire defense to 97
 
 -increased Ostrava's faith to 18
+
+-increased 1-4 Tower Shield NPC black phantom vit to 24
+
+-increased 1-4 White Bow NPC vit to 20
 
 ----------------------------------
 
@@ -714,6 +722,16 @@ Movesets
 
 -changed Hands of God R2 stagger from knockdown to heavy
 
+-changed Geri's Stiletto type and moveset to dagger
+
+-changed catalyst/talisman strikes to kick
+
+-slightly increased animation recovery for katana L1 attack
+
+-slightly reduced animation recovery for polearm first 1h R1 attack
+
+-changed katana L1 damage level from moderate to light stagger
+
 ----------------------------------
 
 Text
@@ -797,6 +815,10 @@ Text
 -changed description of Large Sword of Searching to imply bleed effect
 
 -changed description of War Scythe to describe bleed effect
+
+-changed description of Geri's Stiletto to clarify it is now a dagger
+
+-changed description of Morion Blade to describe new self-damage effect
 
 ----------------------------------
 
@@ -935,17 +957,11 @@ To-do:
 
 -further reduce rapier class crit multiplier?
 
--change catalyst strike attack
-
--fix polearm kick recovery cancel; fixed? needs testing
-
 -add kick to 1h large sword moveset?
 
 -increase miracle and spell slots?
 
 -increased vulnerability window for guardbreaks? needs testing
-
--shortened recovery after UGS/GA/GH kick? needs testing
 
 -eliminate pushlock; delay after L1 or delay after push?
 
