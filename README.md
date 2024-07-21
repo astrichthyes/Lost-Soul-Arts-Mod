@@ -902,7 +902,7 @@ Maps
 
 -added 6 hidden scale miners in 3-1
 
--added 8 hidden scale miners in 3-2
+-added 9 hidden scale miners in 3-2
 
 -added 2 hidden scale miners in 3-3 (only one visible)
 
@@ -912,7 +912,7 @@ Maps
 
 -added 1 hidden scale miner in 4-3
 
--added 2 hidden scale miners in 5-1
+-added 3 hidden scale miners in 5-1
 
 -added 8 hidden scale miners in 5-2
 
