@@ -931,7 +931,7 @@ Maps
 ----------------------------------
 ----------------------------------
 
-To-do:
+Ideas for later:
 
 -reduce weapon base AR at lower levels?
 
@@ -944,8 +944,6 @@ To-do:
 -increase miracle and spell slots?
 
 -increased vulnerability window for guardbreaks? needs testing
-
--new 2h katana r2 animation
 
 -new spell ideas: bearbug explosion, leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
 
