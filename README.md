@@ -342,6 +342,12 @@ Attack modifiers
 
 -increased stamina damage of left hand large shield bash to 300
 
+-reduced rapier rolling r1 modifiers
+
+-reduced 2h katana r2 modifier
+
+-increased 2h greatsword first and second r2 modifiers
+
 ----------------------------------
 
 Shields
@@ -732,7 +738,9 @@ Movesets
 
 -slightly reduced animation recovery for polearm first 1h R1 attack
 
--changed katana L1 damage level from moderate to light stagger
+-reduced katana L1 damage level from moderate to light stagger
+
+-reduced katana 2h r2 damage level from heavy to light stagger and changed animation to quickdraw
 
 ----------------------------------
 
