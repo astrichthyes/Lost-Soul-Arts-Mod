@@ -720,8 +720,6 @@ Starting Classes
 
 -renamed Wanderer class to Arcanist
 
--replaced Priest class Antidote/Flame Weapon miracle with Hidden Soul
-
 -added 2 Fresh Spice to Arcanist starting inventory
 
 -replaced Barbarian Wooden Shield with Slave's Shield
@@ -729,6 +727,8 @@ Starting Classes
 -moved Royalty silver catalyst to left hand
 
 -moved Magician wooden catalyst to left hand
+
+-replaced Temple Knight "Antidote" (Flame Weapon) with Evacuate
 
 ----------------------------------
 
