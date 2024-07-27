@@ -38,6 +38,8 @@ What's in the mod:
 
 -Changed some enemy placement....
 
+-Changed the behavior and equipment of some NPC's
+
 -Friendly scale miners are hiding throughout Boletaria....
 
 **Please note that there is an issue where some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them). This is something I'm working on, which may be hardcoded. I'll do my best to address it in due time.**
@@ -61,6 +63,12 @@ m02.luabnd  []
 m02.luabnd.dcx  []
 
 m02.luabnd.dcx.sdat  []
+
+m04.luabnd  []
+
+m04.luabnd.dcx  []
+
+m04.luabnd.dcx.sdat  []
 
 
 Replace the sfx files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>sfx:
