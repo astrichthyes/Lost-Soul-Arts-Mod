@@ -186,6 +186,12 @@ Weapons
 
 -increased Morion Blade strength and dex scaling and added Hiltless self-damage effect
 
+-added upgrades for Light Crossbow to +10
+
+-added upgrades for Heavy Crossbow to +10
+
+-added upgrades for Gargoyle Crossbow to +10
+
 ----------------------------------
 
 Attack modifiers
@@ -414,7 +420,7 @@ Healing consumables
 
 -changed New Moon Grass duration to 80 seconds, motion interval to 0.8, healing to 10%HP, and healing rate to 10%
 
--changed Spice MP recovery from flat to MP%
+-changed Spice MP recovery from flat to %MP regen and added MP regeneration aura and status icon for active spice effects
 
 -reduced Dark Moon Grass healing effect to 10% HP, maintaining instantaneous effect
 
@@ -433,6 +439,10 @@ Non-healing consumables
 -increased Heavy Arrow physical AR to 115
 
 -added Soul of a Miner to 2-1 treasure corpse
+
+-increased Heavy Bolt physical AR to 80
+
+-decreased Black Bold physical AR to 0 and increased magic AR to 40
 
 ----------------------------------
 
@@ -683,6 +693,8 @@ Text
 -changed description of Geri's Stiletto to clarify it is now a dagger
 
 -changed description of Morion Blade to describe new self-damage effect
+
+-changed description of Black Bolt to describe new magic damage type with lore context
 
 ----------------------------------
 
