@@ -42,6 +42,8 @@ What's in the mod:
 
 -Friendly scale miners are hiding throughout Boletaria....
 
+*Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be obvious otherwise.*
+
 **Please note that there is an issue where some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them). This is something I'm working on, which may be hardcoded. I'll do my best to address it in due time.**
 
 ----------------------------------
