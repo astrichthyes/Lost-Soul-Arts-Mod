@@ -192,6 +192,8 @@ Weapons
 
 -added upgrades for Gargoyle Crossbow to +10
 
+-reduced dex req for Phosphorescent Pole from 16 to 12
+
 ----------------------------------
 
 Attack modifiers
@@ -279,6 +281,12 @@ Armor
 -changed Saint armor set defs to match corresponding Venerable set pieces
 
 -changed Saint armor set durability to match corresponding Venerable set pieces
+
+-standardized heavy armor durability to 500
+
+-standardized medium cloth and leather armor durability to 300
+
+-standardized light armor durability to 150
 
 ----------------------------------
 
@@ -444,6 +452,14 @@ Non-healing consumables
 
 -decreased Black Bold physical AR to 0 and increased magic AR to 40
 
+-reduced consumable weapon buff weights to 0.1
+
+-increased drop rate for Colorless Demon Soul from Primeval Demon to 100%
+
+-increased number of White Arrows that Sparkly the Crow gives in trades to 30
+
+-increased number of Colorless Demon Souls that Sparkly the Crow gives in trades to 3
+
 ----------------------------------
 
 Ore
@@ -456,11 +472,9 @@ Ore
 
 ----------------------------------
 
-Miscellaneous consumables
+Miscellaneous items
 
 -reduced brass telescope weight to 0
-
--reduced consumable weapon buff weights to 0.1
 
 -added Voidstone, an item that reduces the player character's soul level by one
 
@@ -494,11 +508,23 @@ NPC's/Enemies
 
 -increased Ostrava's faith to 18
 
+-increased black phantom Ostrava's faith to 18
+
 -increased 1-4 Tower Shield NPC black phantom vit to 24
 
 -increased 1-4 White Bow NPC vit to 20
 
 -increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
+
+-changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 2 Half Moon Grass
+
+-changed 4-2 dual katanas black phantom weapons to Makoto, offset the hp degen effect with equal regen, and increased magic stat to 18
+
+-changed Old King Doran's stock of 99 New Moon Grass to 2 Half Moon Grass
+
+-changed Stockpile Thomas's stock of 99 Full Moon Grass to 4 Half Moon Grass
+
+-changed Satsuki's stock of 10 New Moon Grass to 2 Half Moon Grass
 
 ----------------------------------
 
