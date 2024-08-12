@@ -322,7 +322,7 @@ Spells
 
 -changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit
 
--changed Recover soul cost to Maiden Astraea's Soul
+-changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%
 
 -changed Firespray from continuous cast to single cast spell; now shoots 5 orbs of fire in a fan in front of the caster, increased mp cost to 18, and added light stagger
 
@@ -576,6 +576,8 @@ Shops
 
 -added Voidstone in Blacksmith Boldwin NPC shop and set cost to 150 souls
 
+-added 1 Colorless Demon Soul in Patches NPC shop and set cost to 100000 souls
+
 ----------------------------------
 
 Cheat Gear
@@ -772,6 +774,8 @@ Starting Classes
 
 -replaced Temple Knight "Antidote" (Flame Weapon) with Evacuate
 
+-increased Priest class faith to 16, reduced vit to 19, reduced int to 10, reduced strength to 12, and moved talisman to left hand
+
 ----------------------------------
 
 Maps
@@ -821,6 +825,8 @@ Maps
 -added 1 hidden scale miner in 5-3
 
 -changed the text and/or locations of some developer messages in the Nexus and Stonefang
+
+-added enemies in some low-density areas in various maps
 
 ----------------------------------
 ----------------------------------
