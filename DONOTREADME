@@ -196,6 +196,10 @@ Weapons
 
 -increased Storm Ruler strength and dex scaling to 10
 
+-added Sanctified Talisman, a talisman that has the Sincere Prayer special effect, 110 faith scaling, and a faith req of 24
+
+-reduced Talisman of God scaling from 100 to 70
+
 ----------------------------------
 
 Attack modifiers
@@ -502,7 +506,7 @@ NPC's/Enemies
 
 -changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, removed Steel Shield, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
 
--replaced Stone of Ephemeral Eyes Follower of God NPC gift with Talisman of God
+-replaced Stone of Ephemeral Eyes Follower of God NPC gift with Sanctified Talisman
 
 -removed Allant's plague immunity
 
@@ -728,6 +732,8 @@ Text
 
 -changed description of Buckler to remove misleading comment suggesting the shield has more parry frames than other shields
 
+-added description of Sanctified Talisman to describe it with lore context
+
 ----------------------------------
 
 Starting Classes
@@ -829,6 +835,8 @@ Maps
 -changed the text and/or locations of some developer messages in the Nexus and Stonefang
 
 -added enemies in some low-density areas in various maps
+
+-changed loot for dagger corpse in 4-2
 
 ----------------------------------
 ----------------------------------
