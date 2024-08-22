@@ -522,15 +522,15 @@ NPC's/Enemies
 
 -increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
 
--changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 2 Half Moon Grass
+-changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
 -changed 4-2 dual katanas black phantom weapons to Makoto, offset the hp degen effect with equal regen, and increased magic stat to 18
 
 -changed Old King Doran's stock of 99 New Moon Grass to 2 Half Moon Grass
 
--changed Stockpile Thomas's stock of 99 Full Moon Grass to 4 Half Moon Grass
+-changed Stockpile Thomas's stock of 99 Full Moon Grass to 10 Half Moon Grass
 
--changed Satsuki's stock of 10 New Moon Grass to 2 Half Moon Grass
+-changed Satsuki's stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
 ----------------------------------
 
