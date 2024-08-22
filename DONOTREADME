@@ -520,7 +520,7 @@ NPC's/Enemies
 
 -increased 1-4 White Bow NPC vit to 20
 
--increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
+-increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
 
 -changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 2 Half Moon Grass
 
@@ -837,6 +837,8 @@ Maps
 -added enemies in some low-density areas in various maps
 
 -changed loot for dagger corpse in 4-2
+
+-removed chairs from Old Monk boss room and added new objects around pillars
 
 ----------------------------------
 ----------------------------------
