@@ -114,7 +114,7 @@ Weapons
 
 -reduced all Fatal weapon throwrates to 0
 
--added weak lifesteal effects to fatal weapons
+-added weak lifesteal effects to fatal weapons and Meat Cleaver HP drain visual effect
 
 -increased all Fatal weapon Dexterity scaling; 60 at +1, 80 at +2, 100 at +3, 115 at +4, and 133 at +5
 
@@ -194,7 +194,7 @@ Weapons
 
 -reduced dex req for Phosphorescent Pole from 16 to 10 and increased magic req from 12 to 16
 
--increased Storm Ruler strength and dex scaling to 10
+-increased Storm Ruler strength and dex scaling to 20
 
 -added Sanctified Talisman, a talisman that has the Sincere Prayer special effect, 110 faith scaling, and a faith req of 24
 
@@ -210,7 +210,7 @@ Attack modifiers
 
 -reduced rapier rolling r1 modifiers
 
--reduced 2h katana r2 modifier
+-reduced 2h katana quick r2 modifier and increased stamina consumption to 85
 
 -increased 2h greatsword first and second r2 modifiers
 
@@ -345,6 +345,10 @@ Spells
 -changed Death Cloud to Wind Slice, a spell that creates a lacerating blade of wind that pierces enemies; has 150 magic AR, costs 18mp, and costs Allant's soul to obtain
 
 -reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff
+
+-increased Regenerate regen to 1.5%HP/s
+
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, and is obtained by trading in the Armored Spider Soul with Freke.
 
 ----------------------------------
 
@@ -734,6 +738,14 @@ Text
 
 -added description of Sanctified Talisman to describe it with lore context
 
+-changed name and description of Demon's Prank to Will-o-wisp to describe new effect with lore context
+
+----------------------------------
+
+Icon Edits
+
+-changed color of Demon's Prank icon to appropriately represent the new Will-o-wisp spell
+
 ----------------------------------
 
 Starting Classes
@@ -857,7 +869,7 @@ Ideas for later:
 
 -increased vulnerability window for guardbreaks? needs testing
 
--new spell ideas: bearbug explosion, leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
+-new spell ideas: leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
 
 -false moonlight weapon?
 
