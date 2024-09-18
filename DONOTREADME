@@ -348,7 +348,7 @@ Spells
 
 -increased Regenerate regen to 1.5%HP/s
 
--changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, and is obtained by trading in the Armored Spider Soul with Freke.
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Armored Spider Soul with Freke.
 
 ----------------------------------
 
@@ -745,6 +745,14 @@ Text
 Icon Edits
 
 -changed color of Demon's Prank icon to appropriately represent the new Will-o-wisp spell
+
+-created custom icon for Flame Weapon
+
+-created custom icon for Torpefy
+
+-changed Sludge Toss icon to green skull
+
+-changed icon for Sanctified Talisman to red talisman icon
 
 ----------------------------------
 
