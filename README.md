@@ -1,4 +1,4 @@
-Project Astri - "Lost Soul Arts" Mod
+Project Astri - Lost Soul Arts Mod
 
 Foreword:
 
@@ -42,15 +42,35 @@ What's in Lost Soul Arts:
 
 -Friendly scale miners are hiding throughout Boletaria....
 
-*Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be obvious otherwise.*
-
-**Please note that there are a couple of known issues: Some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them). Status also does not display properly on weapons. I'm working on these, but may not be able to fix them if they're hardcoded.**
+***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
 
 ----------------------------------
 
-FIRST WARNING: BEFORE YOU INSTALL, PLEASE BE AWARE THAT THE CONTENTS OF THIS MOD ARE NOT APPROVED FOR USE ONLINE. THIS WOULD ONLY BE ACCEPTABLE ON A SERVER DEDICATED TO THE MOD, WHICH I DO NOT HAVE THE BANDWIDTH TO CREATE OR MANAGE.
+**Known Issues:**
 
-SECOND WARNING: BEFORE YOU INSTALL, IT IS RECOMMENDED THAT YOU START WITH FRESH SAVES. THERE IS A CHANCE THAT TRYING TO USE PRE-MODDED SAVES WILL CAUSE THEM TO BREAK. EX. MY CHARACTER FROM AN OLD SAVE HAD PERMANENTLY-EMPTY SPELL SLOTS.
+-Some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them).
+
+-Status also does not display properly on weapons.
+
+***I'm working on all of these, but may not be able to fix them if they're hardcoded.***
+
+----------------------------------
+
+*Monetization/Reuse/Collaboration Terms:*
+
+*The contents of this mod are not to be modified, reused, redistributed, recreated, or monetized except by the original creator and collaborators with express permission to do so. This was a solo project carefully tailored to fit a very specific vision and provide a refreshing new take on an old game.*
+
+*Please do not request or offer to collaborate on this project unless you are able to address any of the known issues above.*
+
+*If you have an idea for the project or wish to report a bug or other problem, please submit it on the GitHub Issues page.*
+
+----------------------------------
+
+**BEFORE YOU INSTALL:**
+
+***FIRST WARNING: PLEASE BE AWARE THAT THE CONTENTS OF THIS MOD ARE NOT YET APPROVED FOR USE ONLINE. THIS WOULD ONLY BE ACCEPTABLE ON A SERVER DEDICATED TO THE MOD, WHICH I DO NOT HAVE THE BANDWIDTH TO CREATE OR MANAGE.***
+
+***SECOND WARNING: IT IS RECOMMENDED THAT YOU START WITH FRESH SAVES. THERE IS A CHANCE THAT TRYING TO USE PRE-MODDED SAVES WILL CAUSE THEM TO BREAK. EX. MY CHARACTER FROM AN OLD SAVE HAD PERMANENTLY-EMPTY SPELL SLOTS.***
 
 ----------------------------------
 
