@@ -1,5 +1,6 @@
 ProjectAstri_LostSoulArtsMod_v1.00
 
+
 Weapons
 
 -reduced upgraded Dragon Bone Smasher base AR to 200
@@ -184,8 +185,6 @@ Weapons
 
 -reduced scaling for all Crescent Mail Breaker variants
 
--increased Morion Blade strength and dex scaling and added Hiltless self-damage effect
-
 -added upgrades for Light Crossbow to +10
 
 -added upgrades for Heavy Crossbow to +10
@@ -200,6 +199,10 @@ Weapons
 
 -reduced Talisman of God scaling from 100 to 70
 
+-reduced Morion Blade base physical AR to 0, increased base magic AR to 150, reduced dex req to 8, increased faith req to 16, increased faith scaling to 115 (up to 180 upgraded), made upgradeable with Colorless Demon's Souls, added Hiltless self-damage effect, and added hp-conditional regen on hit to offset self-damage at low hp
+
+-added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls
+
 ----------------------------------
 
 Attack modifiers
@@ -213,6 +216,8 @@ Attack modifiers
 -reduced 2h katana quick r2 modifier and increased stamina consumption to 85
 
 -increased 2h greatsword first and second r2 modifiers
+
+-reduced 2h dagger r2 modifier to 1.2
 
 ----------------------------------
 
@@ -302,6 +307,14 @@ Rings
 
 ----------------------------------
 
+Stealth
+
+-visibility distance increased for Graverobber Ring and Thief's Ring
+
+-audibility distance decreased for Graverobber Ring and Thief's Ring
+
+----------------------------------
+
 Hypermode
 
 -reduced Clever Rat Ring effect to 30%
@@ -348,7 +361,7 @@ Spells
 
 -increased Regenerate regen to 1.5%HP/s
 
--changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Armored Spider Soul with Freke.
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke.
 
 ----------------------------------
 
@@ -456,8 +469,6 @@ Non-healing consumables
 
 -increased Heavy Arrow physical AR to 115
 
--added Soul of a Miner to 2-1 treasure corpse
-
 -increased Heavy Bolt physical AR to 80
 
 -decreased Black Bold physical AR to 0 and increased magic AR to 40
@@ -469,6 +480,12 @@ Non-healing consumables
 -increased number of White Arrows that Sparkly the Crow gives in trades to 30
 
 -increased number of Colorless Demon Souls that Sparkly the Crow gives in trades to 3
+
+-increased velocity of Throwing Knives to 35
+
+-increased velocity of Kunai to 35
+
+-increased velocity of Secret Throwing Dagger to 30
 
 ----------------------------------
 
@@ -502,13 +519,15 @@ NPC's/Enemies
 
 -removed Garl's immunity to poison and bleed
 
+-changed upgrade level of Garl's Bramd from +5 to +0
+
 -changed White Bow NPC black phantom secondary weapon to Large Sword of Moonlight, swapped wooden catalyst out for talisman of god, swapped Firestorm for Penitent Nails Miracle, changed armor to Mirdan set, equipped Ring of Great Strength, and increased faith stat to 24
 
 -changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear
 
--changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 30, increased faith to 24, increased vit to 30, and increased intelligence to 99
+-changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, and increased intelligence to 99
 
--changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, removed Steel Shield, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
+-changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
 
 -replaced Stone of Ephemeral Eyes Follower of God NPC gift with Sanctified Talisman
 
@@ -535,6 +554,28 @@ NPC's/Enemies
 -changed Stockpile Thomas's stock of 99 Full Moon Grass to 10 Half Moon Grass
 
 -changed Satsuki's stock of 10 New Moon Grass to 6 Crescent Moon Grass
+
+-changed 2-2 male NPC black phantom equipment to Morion Blade, Chain armor set, Clever Rat Ring, and Dull Rat Ring; also increased Vitality to 25, Endurance to 30, and Faith to 16; also changed Chunk Dragonstone loot to Morion Blade
+
+-changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set
+
+-changed Acolyte of God NPC equipment to False Moonlight+5 and Mirdan armor set, increased his strength to 14, increased his vitality to 27, increased his endurance to 27, and added False Moonlight as a drop
+
+-added Sanctified Talisman to Worshipper of God NPC equipment and drop, increased strength to 14, increased dexterity to 12, and changed right hand weapon to Blessed Mirdan Hammer+5
+
+-changed Patches equipment to Fatal Short Spear+5 and increased his vitality to 24
+
+-changed Biorr's crossbow bolts to Heavy Bolts and crossbow to Heavy Crossbow+10
+
+-changed Urbain's talisman to Sanctified Talisman
+
+-changed Freke's equipment to Baby's Nail+5 and Geri's Stiletto+5
+
+-changed Disciple of God's weapon to Dragon Morning Star+5 and increased luck to 30
+
+-changed Scirvir NPC black phantom weapons to Moon Short Sword+5 and Geri's Stiletto+5
+
+-added new NPC black phantom in 5-2 with Dragon Bone Smasher and Binded armor set
 
 ----------------------------------
 
@@ -586,7 +627,7 @@ Shops
 
 -added Voidstone in Blacksmith Boldwin NPC shop and set cost to 150 souls
 
--added 1 Colorless Demon Soul in Patches NPC shop and set cost to 100000 souls
+-added Colorless Demon Soul in Patches NPC shop and set cost to 30000 souls
 
 ----------------------------------
 
@@ -643,6 +684,10 @@ Movesets
 -reduced katana L1 damage level from moderate to light stagger
 
 -reduced katana 2h r2 damage level from heavy to light stagger and changed animation to quickdraw
+
+-increased all kick stamina cost to 50
+
+-changed 2h dagger r2 to foot sweep that ignores shields
 
 ----------------------------------
 
@@ -730,7 +775,7 @@ Text
 
 -changed description of Geri's Stiletto to clarify it is now a dagger
 
--changed description of Morion Blade to describe new self-damage effect
+-changed description of Morion Blade to describe new self-damage effect and scaling with lore context
 
 -changed description of Black Bolt to describe new magic damage type with lore context
 
@@ -739,6 +784,12 @@ Text
 -added description of Sanctified Talisman to describe it with lore context
 
 -changed name and description of Demon's Prank to Will-o-wisp to describe new effect with lore context
+
+-added description of Tardigrade's Soul to describe item with lore context
+
+-changed description of Secret Throwing Dagger for more accuracy
+
+-changed description of Pickaxe for more accuracy
 
 ----------------------------------
 
@@ -753,6 +804,8 @@ Icon Edits
 -changed Sludge Toss icon to green skull
 
 -changed icon for Sanctified Talisman to red talisman icon
+
+-created custom icon for Rock Throw
 
 ----------------------------------
 
@@ -856,9 +909,31 @@ Maps
 
 -added enemies in some low-density areas in various maps
 
+-changed loot from Crescent Moon Grass to Soul of a Miner in 2-1
+
 -changed loot for dagger corpse in 4-2
 
 -removed chairs from Old Monk boss room and added new objects around pillars
+
+-changed loot from Blessed Mace+1 in 5-1 to 12 Crescent Moon Grass
+
+-changed loot from Thief's ring in 5-2 to Blessed Mace+1
+
+-changed loot from Crescent Falchion in 4-1 to Stone of Ephemeral Eyes
+
+-changed loot from Crescent Moon Grass in 4-2 to Crescent Falchion+1
+
+-changed loot from Fabled Hero's Soul in 4-3 to Morion Blade
+
+-moved 1-1 Spear Knight to platform with Light Crossbow
+
+-moved 2-2 male NPC black phantom to 1-1 outside mausoleum door
+
+-changed loot from Crescent Moon Grass in 5-1 to False Moonlight
+
+-changed loot from New Moon Grass to Tardigrade's Soul in 2-3
+
+-moved 5-2 Nameless Soldier Soul corpse near new NPC black phantom, added wood debris for the corpse to lean against, and changed loot to Colorless Demon Soul
 
 ----------------------------------
 ----------------------------------
@@ -879,8 +954,6 @@ Ideas for later:
 
 -new spell ideas: leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
 
--false moonlight weapon?
-
 -change hitstun animation priority for fire weapons?
 
--remix enemy locations/types; add new NPC invaders as well?
+-remix enemy locations/types
