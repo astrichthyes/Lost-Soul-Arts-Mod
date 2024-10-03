@@ -417,6 +417,8 @@ Status
 
 -added new poison effect to Needle of Eternal Agony with 90s duration, 70% healing cut, (0.3% - 1) dps, and 3 stamina regen penalty
 
+-changed properties of 5-2 poison swamp so that the player character is not restricted to the "overburdened" state (no roll) and instead has their maximum equip load reduced to 30%
+
 ----------------------------------
 
 Regen
