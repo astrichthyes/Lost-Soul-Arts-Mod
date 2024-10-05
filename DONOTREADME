@@ -527,7 +527,7 @@ NPC's/Enemies
 
 -changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear
 
--changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, and increased intelligence to 99
+-changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, increased intelligence to 99, and added NPC MP regen special effect
 
 -changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
 
@@ -545,7 +545,7 @@ NPC's/Enemies
 
 -increased 1-4 White Bow NPC vit to 20
 
--increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
+-increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, added NPC MP regen special effect, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
 
 -changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
@@ -578,6 +578,14 @@ NPC's/Enemies
 -changed Scirvir NPC black phantom weapons to Moon Short Sword+5 and Geri's Stiletto+5
 
 -added new NPC black phantom in 5-2 with Dragon Bone Smasher and Binded armor set
+
+-added new Yurt NPC black phantom in 3-2 with dual Mercury Shotel+5 and changed AI to Urbain pit NPC black phantom's
+
+-added new NPC black phantom in 4-2 with Tearing Pickaxe+5, wooden catalyst, and Rock Throw
+
+-added new NPC black phantom in 2-2 with dual Hands of God+5
+
+-added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss
 
 ----------------------------------
 
