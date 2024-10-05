@@ -40,6 +40,8 @@ What's in Lost Soul Arts:
 
 -Changed the behavior and equipment of some NPC's
 
+-Added new NPC black phantoms
+
 -Friendly scale miners are hiding throughout Boletaria....
 
 ***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
@@ -94,11 +96,23 @@ m02.luabnd.dcx  []
 
 m02.luabnd.dcx.sdat  []
 
+m03.luabnd  []
+
+m03.luabnd.dcx  []
+
+m03.luabnd.dcx.sdat  []
+
 m04.luabnd  []
 
 m04.luabnd.dcx  []
 
 m04.luabnd.dcx.sdat  []
+
+m06.luabnd  []
+
+m06.luabnd.dcx  []
+
+m06.luabnd.dcx.sdat  []
 
 
 Replace the sfx files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>sfx:
