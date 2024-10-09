@@ -351,7 +351,7 @@ Spells
 
 -changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice
 
--changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec
+-changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec
 
 -reduced slot length of Second Chance to 1
 
@@ -577,11 +577,11 @@ NPC's/Enemies
 
 -changed Scirvir NPC black phantom weapons to Moon Short Sword+5 and Geri's Stiletto+5
 
--added new NPC black phantom in 5-2 with Dragon Bone Smasher and Binded armor set
+-added new Disciple of God NPC black phantom in 5-2 with Dragon Morning Star+5, Sanctified Talisman, Penitent Nails, Cloud of Flies, Regeneration, and Anti-Magic Barrier
 
--added new Yurt NPC black phantom in 3-2 with dual Mercury Shotel+5 and changed AI to Urbain pit NPC black phantom's
+-added new Yurt NPC black phantom in 3-2 with dual Mercury Shotel+5
 
--added new NPC black phantom in 4-2 with Tearing Pickaxe+5, wooden catalyst, and Rock Throw
+-added new NPC black phantom in 4-2 with Tearing Pickaxe+5, Simpleton's Catalyst, Will-o-wisp, and Rock Throw
 
 -added new NPC black phantom in 2-2 with dual Hands of God+5
 
