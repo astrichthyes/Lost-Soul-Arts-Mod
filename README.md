@@ -6,7 +6,7 @@ Hi All, I'm Astri. I've been playing the Soulsborne games since Demon's Souls st
 
 After the release of the Demon's Souls remake in 2020 and feeling disappointment in the shape it was left in (password summons not downscaled, negative luck, guaranteed wakeups after backstab, etc.), I decided to start the ambitious project of modding the original game in May 2021. My vision was a massive overhaul to improve game balance and promote build diversity while still preserving the heart and soul of the original version (making changes that are neither detrimental to the PvE nor PvP experience). I frankly had no modding experience prior to this, nor do I have any practical background in coding, but with a lot of determination, after three full restarts of the project due to file corruption, and with occasional guidance from incredibly nice people in the Souls modding community like ariane_des and georgekingbore, I was able to bring this idea to fruition.
 
-This is not a very flashy mod, nor was it meant to be. The changes were designed to blend in with the rest of the game as much as possible, as if they were always meant to be there. All file edits were made by my own hands in DSAnimStudio and DSMapStudio, using assets that already exist in the game for new spells and moveset modifications. It is truly a labor of love that I hope you all enjoy.
+This is not a very flashy mod, nor was it meant to be. The changes were designed to blend in with the rest of the game as much as possible, **as if they were always meant to be there**. All of the major file edits were made by my own hands using DS Anim Studio, DS Map Studio, Wulf's BND Rebuilder, and True Ancestor 1.65, using assets that already exist in the game to create the new spells and moveset modifications. I modified existing icons for some of the new spells with a DDS unpacker, Clip Studio Paint, and Gimp. It is truly a labor of love that I hope you all enjoy.
 
 ----------------------------------
 
@@ -14,9 +14,7 @@ What's in Lost Soul Arts:
 
 -Improved starting classes
 
--Slightly changed some spells and miracles....
-
--Some spells and miracles replaced with new ones....
+-New spells and miracles designed with utility in mind and to fill previously unoccupied niches
 
 -Most weapons rebalanced/revamped
 
@@ -24,25 +22,29 @@ What's in Lost Soul Arts:
 
 -Some weapon movesets slightly modified....
 
--Reduced backstab multipliers for all weapons except fist weapons
-
 -Armor weights and defenses now more fashion-friendly
 
--Grass, spice, and status effects now percentage-based effects-over-time (note: status no longer displays properly because it is only calculated from flat effects)
+-Revamped healing mechanics for grass and spice to improve game balance and provide a more challenging experience
 
--Status effect duration adjusted
+-Revamped status effect potency and adjusted durations
 
--Misc QoL changes
+-Respec at will with a new consumable item
 
 -Modified some dev messages in the Nexus and Stonefang....
 
--Changed some enemy placement....
+-Slightly changed some enemy placement....
+
+-Changed some treasure locations and NPC loot
 
 -Changed the behavior and equipment of some NPC's
 
 -Added new NPC black phantoms
 
--Friendly scale miners are hiding throughout Boletaria....
+-Changed the movement properties of the poison swamp in the Valley of Defilement
+
+-Added friendly scale miners, who are hiding throughout Boletaria....
+
+I'll spare you all the essay and simply say that there is so much under the hood of this mod, that it is worth exploring new progression paths, and using the respec item to experiment with character stats and the new tools at your disposal.
 
 ***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
 
@@ -52,7 +54,8 @@ What's in Lost Soul Arts:
 
 -Some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them).
 
--Status also does not display properly on weapons.
+-Status does not display properly on weapons.
+
 
 ***I'm working on all of these, but may not be able to fix them if they're hardcoded.***
 
@@ -60,7 +63,7 @@ What's in Lost Soul Arts:
 
 *Monetization/Reuse/Collaboration Terms:*
 
-*The contents of this mod are not to be modified, reused, redistributed, recreated, or monetized except by the original creator and collaborators with express permission to do so. This was a solo project carefully tailored to fit a very specific vision and provide a refreshing new take on an old game.*
+*The contents of this mod are not to be modified, reused, redistributed, recreated, or monetized except by the original creator and authorized collaborators with express permission to do so. This was a solo project carefully tailored to fit a very specific vision and provide a refreshing new take on an old game.*
 
 *Please do not request or offer to collaborate on this project unless you are able to address any of the known issues above.*
 
