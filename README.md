@@ -44,7 +44,7 @@ What's in Lost Soul Arts:
 
 -Added friendly scale miners, who are hiding throughout Boletaria....
 
-I'll spare you all the essay and simply say that there is so much under the hood of this mod, that it is worth exploring new progression paths, and using the respec item to experiment with character stats and the new tools at your disposal.
+I'll spare you all the essay and simply say that there is so much under the hood of this mod. Explore new progression paths. Use the respec item to experiment with character stats and make the most out of the new tools at your disposal. Most importantly, journey through Boletaria with fresh eyes. Leave no stone unturned.
 
 ***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
 
