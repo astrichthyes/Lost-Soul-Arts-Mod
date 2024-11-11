@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.01
+ProjectAstri_LostSoulArtsMod_v1.02
 
 
 Weapons
@@ -195,13 +195,15 @@ Weapons
 
 -increased Storm Ruler strength and dex scaling to 20
 
--added Sanctified Talisman, a talisman that has the Sincere Prayer special effect, 110 faith scaling, and a faith req of 24
+-added Sanctified Talisman, a talisman that has a weak Sincere Prayer special effect (stackable with the ring), 110 faith scaling, and a faith req of 24
 
 -reduced Talisman of God scaling from 100 to 70
 
 -reduced Morion Blade base physical AR to 0, increased base magic AR to 150, reduced dex req to 8, increased faith req to 16, increased faith scaling to 115 (up to 180 upgraded), made upgradeable with Colorless Demon's Souls, added Hiltless self-damage effect, and added hp-conditional regen on hit to offset self-damage at low hp
 
--added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls
+-added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls
+
+-all boss weapons now evolve from +0 weapons
 
 ----------------------------------
 
@@ -361,7 +363,9 @@ Spells
 
 -increased Regenerate regen to 1.5%HP/s
 
--changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke.
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke
+
+-changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain
 
 ----------------------------------
 
@@ -417,7 +421,7 @@ Status
 
 -added new poison effect to Needle of Eternal Agony with 90s duration, 70% healing cut, (0.3% - 1) dps, and 3 stamina regen penalty
 
--changed properties of 5-2 poison swamp so that the player character is not restricted to the "overburdened" state (no roll) and instead has their maximum equip load reduced to 30%
+-changed properties of 5-2 poison swamp so that the player character is not restricted to the "overburdened" state (no roll) and instead has their maximum equip load reduced to 30%, with new icon indicating when the effect is active
 
 ----------------------------------
 
@@ -488,6 +492,10 @@ Non-healing consumables
 -increased velocity of Kunai to 35
 
 -increased velocity of Secret Throwing Dagger to 30
+
+-added Soul of a Tardigrade item
+
+-added Brain of a Mindflayer item to Mindflayer drop pools
 
 ----------------------------------
 
@@ -801,6 +809,10 @@ Text
 
 -changed description of Pickaxe for more accuracy
 
+-changed name and description of Hidden Soul to Emit Force to describe new effect with lore context
+
+-added description of Brain of a Mindflayer to describe item with lore context
+
 ----------------------------------
 
 Icon Edits
@@ -816,6 +828,12 @@ Icon Edits
 -changed icon for Sanctified Talisman to red talisman icon
 
 -created custom icon for Rock Throw
+
+-slightly changed color of Anti-Magic Barrier icon to be more green
+
+-created custom icon for 5-2 swamp roll mechanic
+
+-created custom icon for Emit Force
 
 ----------------------------------
 
@@ -945,8 +963,20 @@ Maps
 
 -moved 5-2 Nameless Soldier Soul corpse near new NPC black phantom, added wood debris for the corpse to lean against, and changed loot to Colorless Demon Soul
 
+-moved two treasure corpses in 3-1 swamp closer to black phantom Yurt
+
+-moved some objects in 1-1, as well as some treasure corpses
+
+-added a few more enemies in 1-2
+
 ----------------------------------
+1.02 Bug fixes:
+
+-fixed bug with catalyst and talisman kicks granting i-frames
+
 ----------------------------------
+
+
 
 Ideas for later:
 
@@ -962,8 +992,4 @@ Ideas for later:
 
 -increased vulnerability window for guardbreaks? needs testing
 
--new spell ideas: leachmonger leach ball, tower knight javelin, lava throw, some kind of short-mid range spear thrust spell?
-
 -change hitstun animation priority for fire weapons?
-
--remix enemy locations/types
