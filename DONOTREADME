@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.02
+ProjectAstri_LostSoulArtsMod_v1.03
 
 
 Weapons
@@ -201,9 +201,17 @@ Weapons
 
 -reduced Morion Blade base physical AR to 0, increased base magic AR to 150, reduced dex req to 8, increased faith req to 16, increased faith scaling to 115 (up to 180 upgraded), made upgradeable with Colorless Demon's Souls, added Hiltless self-damage effect, and added hp-conditional regen on hit to offset self-damage at low hp
 
--added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls
+-added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls; v1.03 enabled weapon buffs
 
 -all boss weapons now evolve from +0 weapons
+
+-v1.03 changed Insanity Catalyst maximum MP debuff from -50% to -30% to account for spices offering MP regen and make it a viable option again
+
+-v1.03 added shield chip to all Shotel variants
+
+-v1.03 increased base AR of all Fatal weapons
+
+-v1.03 increased main stat scaling of all Fatal weapons except Rapier and Estoc
 
 ----------------------------------
 
@@ -220,6 +228,12 @@ Attack modifiers
 -increased 2h greatsword first and second r2 modifiers
 
 -reduced 2h dagger r2 modifier to 1.2
+
+-v1.03 increased 2h stamina attack modifiers for most weapon classes, excluding rapiers, shotel, polearms, and small shields
+
+-v1.03 increased base stamina attack of False Moonlight to account for blunt damage type
+
+-v1.03 removed flat stamina damage of shield attacks
 
 ----------------------------------
 
@@ -275,6 +289,12 @@ Shields
 
 -increased strength scaling of all Purple Flame Shield variants
 
+-v1.03 reduced status effect reduction on all shields; note that shields always block 100% status from weapons, but not bullets
+
+-v1.03 further reduced stability for all standard-upgrade 100% physical-blocking shields
+
+-v1.03 reduced Tower Shield stability by 10
+
 ----------------------------------
 
 Armor
@@ -327,9 +347,7 @@ Hypermode
 
 Spells
 
--reduced Cursed Weapon buff to 30%
-
--changed Cursed Weapon HP degen to 4HP/s
+-reduced Cursed Weapon buff to 30% and changed HP degen to 4HP/s; v1.03 reduced number of spell slots to 2 and increased cost to 120mp
 
 -increased Water Veil fire damage reduction to 80%
 
@@ -347,13 +365,13 @@ Spells
 
 -changed Firespray from continuous cast to single cast spell; now shoots 5 orbs of fire in a fan in front of the caster, increased mp cost to 18, and added light stagger
 
--changed Poison Cloud to Torpefy, an ignite-like spell with 100 physical AR that causes buildup of strong bleed
+-changed Poison Cloud to Torpefy, an ignite-like spell with 100 physical AR that causes buildup of strong bleed and chips through shields; v1.03 increased cost to 24mp
 
 -changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150
 
 -changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice
 
--changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec
+-changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec; v1.03 increased cost to 35mp
 
 -reduced slot length of Second Chance to 1
 
@@ -380,6 +398,8 @@ Status
 -reduced plague stamina penalty to -5
 
 -reduced plague duration to 180s
+
+-v1.03 increased all plague healing penalties to 60%
 
 -similarly adjusted corresponding environmental status
 
@@ -459,7 +479,7 @@ Healing consumables
 
 -changed Spice MP recovery from flat to %MP regen and added MP regeneration aura and status icon for active spice effects
 
--reduced Dark Moon Grass healing effect to 10% HP, maintaining instantaneous effect
+-reduced Dark Moon Grass healing effect to 10% HP, maintaining instantaneous effect; v1.03 further reduced healing to 5% HP
 
 -added regeneration aura and status icon for active grass effects
 
@@ -496,6 +516,12 @@ Non-healing consumables
 -added Soul of a Tardigrade item
 
 -added Brain of a Mindflayer item to Mindflayer drop pools
+
+-v1.03 reduced weight of Soul Remains and Augite of Guidance to 0
+
+-v1.03 reduced weight of Ed's Grindstone to 0.1
+
+-v1.03 increased total obtainable Colorless Demon Souls to 20 per playthrough
 
 ----------------------------------
 
@@ -589,7 +615,7 @@ NPC's/Enemies
 
 -added new Yurt NPC black phantom in 3-2 with dual Mercury Shotel+5
 
--added new NPC black phantom in 4-2 with Tearing Pickaxe+5, Simpleton's Catalyst, Will-o-wisp, and Rock Throw
+-added new NPC black phantom in 4-2 with Tearing Pickaxe+5, Simpleton's Catalyst, Will-o-wisp, and Rock Throw; v1.03 reduced int to 24
 
 -added new NPC black phantom in 2-2 with dual Hands of God+5
 
@@ -707,6 +733,12 @@ Movesets
 
 -changed 2h dagger r2 to foot sweep that ignores shields
 
+-v1.03 reduced attack multiplier of rapier class riposte to 3.2
+
+-v1.03 increased attack multiplier of dagger class riposte to 3.7
+
+-v1.03 further increased vulnerability windows after guardbreak
+
 ----------------------------------
 
 Text
@@ -799,11 +831,11 @@ Text
 
 -changed description of Buckler to remove misleading comment suggesting the shield has more parry frames than other shields
 
--added description of Sanctified Talisman to describe it with lore context
+-added description of Sanctified Talisman to describe it with lore context; v1.03 improved description
 
 -changed name and description of Demon's Prank to Will-o-wisp to describe new effect with lore context
 
--added description of Tardigrade's Soul to describe item with lore context
+-added description of Soul of a Tardigrade to describe item with lore context
 
 -changed description of Secret Throwing Dagger for more accuracy
 
@@ -969,6 +1001,14 @@ Maps
 
 -added a few more enemies in 1-2
 
+-v1.03 added a few more enemies around 5-2, improved loot on Giant Depraved Island, and brightened light around corpse near Disciple of God NPC black phantom
+
+-v1.03 changed corpse loot in 5-1 pure white world tendency area to Colorless Demon Soul
+
+-v1.03 changed corpse loot in 3-1 area around Rydell's corpse to Colorless Demon Soul
+
+-v1.03 changed corpse loot in Yuria's tower in 1-3 to Colorless Demon Soul
+
 ----------------------------------
 1.02 Bug fixes:
 
@@ -982,14 +1022,8 @@ Ideas for later:
 
 -reduce weapon base AR at lower levels?
 
--fix Shotel chip?
-
--further reduce rapier class crit multiplier?
-
 -add kick to 1h large sword moveset?
 
 -increase miracle and spell slots?
-
--increased vulnerability window for guardbreaks? needs testing
 
 -change hitstun animation priority for fire weapons?
