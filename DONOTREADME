@@ -361,7 +361,7 @@ Spells
 
 -changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit
 
--changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%
+-changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%; v1.03 changed this back to flat recovery and increased value to 1000
 
 -changed Firespray from continuous cast to single cast spell; now shoots 5 orbs of fire in a fan in front of the caster, increased mp cost to 18, and added light stagger
 
@@ -383,7 +383,7 @@ Spells
 
 -changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke
 
--changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain
+-changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 200
 
 ----------------------------------
 
@@ -739,6 +739,10 @@ Movesets
 
 -v1.03 further increased vulnerability windows after guardbreak
 
+-v1.03 reduced attack cooldown between 2h ultra greatsword 2nd r1 and 3rd r1 attacks
+
+-v1.03 increased hyperarmor window for miracles cast using Sanctified Talisman and/or Ring of Sincere Prayer
+
 ----------------------------------
 
 Text
@@ -844,6 +848,8 @@ Text
 -changed name and description of Hidden Soul to Emit Force to describe new effect with lore context
 
 -added description of Brain of a Mindflayer to describe item with lore context
+
+-v1.03 further changed descriptions of Sanctified Talisman and Ring of Sincere Prayer to indicate the new hyperarmor effect for miracles cast with them on
 
 ----------------------------------
 
