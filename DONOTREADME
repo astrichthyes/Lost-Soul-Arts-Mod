@@ -203,7 +203,7 @@ Weapons
 
 -added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls; v1.03 enabled weapon buffs
 
--all boss weapons now evolve from +0 weapons
+-v1.03 all boss weapons now evolve from +0 weapons
 
 -v1.03 changed Insanity Catalyst maximum MP debuff from -50% to -30% to account for spices offering MP regen and make it a viable option again
 
@@ -289,7 +289,7 @@ Shields
 
 -increased strength scaling of all Purple Flame Shield variants
 
--v1.03 reduced status effect reduction on all shields; note that shields always block 100% status from weapons, but not bullets
+-v1.03 reduced status effect reduction on all shields
 
 -v1.03 further reduced stability for all standard-upgrade 100% physical-blocking shields
 
@@ -383,7 +383,7 @@ Spells
 
 -changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke
 
--changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 200
+-changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220
 
 ----------------------------------
 
@@ -743,6 +743,10 @@ Movesets
 
 -v1.03 increased hyperarmor window for miracles cast using Sanctified Talisman and/or Ring of Sincere Prayer
 
+-v1.03 slightly extended parry window of offhand daggers
+
+-v1.03 slightly reduced recovery time after casting miracles
+
 ----------------------------------
 
 Text
@@ -921,7 +925,7 @@ Starting Classes
 
 -replaced Temple Knight "Antidote" (Flame Weapon) with Evacuate
 
--increased Priest class faith to 16, reduced vit to 19, reduced int to 10, reduced strength to 12, and moved talisman to left hand
+-increased Priest class faith to 16, reduced vit to 9, reduced int to 10, reduced strength to 12, and moved talisman to left hand
 
 ----------------------------------
 
