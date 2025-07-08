@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.03
+ProjectAstri_LostSoulArtsMod_v1.04
 
 
 Weapons
@@ -213,6 +213,8 @@ Weapons
 
 -v1.03 increased main stat scaling of all Fatal weapons except Rapier and Estoc
 
+-v1.04 increased crit throw rate of Geri's Stiletto to 10 and increased magic scaling
+
 ----------------------------------
 
 Attack modifiers
@@ -375,13 +377,13 @@ Spells
 
 -reduced slot length of Second Chance to 1
 
--changed Death Cloud to Wind Slice, a spell that creates a lacerating blade of wind that pierces enemies; has 150 magic AR, costs 18mp, and costs Allant's soul to obtain
+-changed Death Cloud to Wind Slice, a spell that creates a lacerating blade of wind that pierces enemies; has 150 magic AR, costs 18mp, and costs Allant's soul to obtain; v1.04 lifted casting angle by 2 degrees, slightly reduced velocity, increased bullet size to match visual effect, and enabled bullet to penetrate map
 
--reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff
+-reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff; v1.04 increased effect duration to 45 seconds
 
 -increased Regenerate regen to 1.5%HP/s
 
--changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke; v1.04 increased base Fire AR and stamina attack to 300
 
 -changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220
 
@@ -532,6 +534,7 @@ Ore
 -increased drop rates and quantities for ores from crystal lizards
 
 -increased drop rates for ores from various mobs
+
 
 ----------------------------------
 
@@ -746,6 +749,8 @@ Movesets
 -v1.03 slightly extended parry window of offhand daggers
 
 -v1.03 slightly reduced recovery time after casting miracles
+
+-v1.04 increased hyperarmor window for Soulsucker and Will-o-wisp casting animation
 
 ----------------------------------
 
@@ -1018,6 +1023,10 @@ Maps
 -v1.03 changed corpse loot in 3-1 area around Rydell's corpse to Colorless Demon Soul
 
 -v1.03 changed corpse loot in Yuria's tower in 1-3 to Colorless Demon Soul
+
+-v1.04 added new platforming area in 5-2
+
+-v1.04 changed corpse loot in 5-2 to Pure Bladestone
 
 ----------------------------------
 1.02 Bug fixes:
