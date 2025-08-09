@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.04
+ProjectAstri_LostSoulArtsMod_v1.05beta
 
 
 Weapons
@@ -349,7 +349,7 @@ Hypermode
 
 Spells
 
--reduced Cursed Weapon buff to 30% and changed HP degen to 4HP/s; v1.03 reduced number of spell slots to 2 and increased cost to 120mp
+-reduced Curse Weapon buff to 30% and changed HP degen to 4HP/s; v1.03 reduced number of spell slots to 2 and increased cost to 120mp
 
 -increased Water Veil fire damage reduction to 80%
 
@@ -357,35 +357,37 @@ Spells
 
 -changed Antidote miracle to Flame Weapon buff, which scales with faith, is cast with talismans, has 130 base damage, costs 50000 souls from Follower of God NPC shop OR 30000 souls from Saint Urbain NPC shop, deals self-damage at a rate of 0.2%MaxHP per 0.5sec, and costs 60MP to cast
 
--changed Resurrection miracle to Cloud of Flies miracle; creates fly explosion with 220 physical AR, inflicts flies status effect on hit that deals 0.7%hp/sec for 20sec, costs 50 mp, and costs the Dirty Colossus Soul to obtain
+-changed Resurrection miracle to Cloud of Flies miracle; creates fly explosion with 220 physical AR, inflicts flies status effect on hit that deals 0.7%hp/sec for 20sec, costs 50 mp, and costs the Dirty Colossus Soul to obtain; v1.05 increased physical AR to 500, increased flies status effect to 1%hp/sec, and increased cost to 60MP
 
--changed Homing Soul Arrow bullet effect to Maneater Homing Soul Arrow, removed floating stage for faster cast, reduced MP cost to 30, reduced magicAR to 75, and reduced number of bullets to spray of 3 with improved homing ability; now costs Maneater Soul to obtain
+-changed Homing Soul Arrow bullet effect to Maneater Homing Soul Arrow, removed floating stage for faster cast, reduced MP cost to 30, reduced magicAR to 75, and reduced number of bullets to spray of 3 with improved homing ability; v1.03 now costs Maneater Soul to obtain
 
--changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit
+-changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit; v1.05 increases physical AR to 250
 
--changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%; v1.03 changed this back to flat recovery and increased value to 1000
+-changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%; v1.03 changed this back to flat recovery and increased value to 1000; v1.05 increased stamina cost to 200
 
 -changed Firespray from continuous cast to single cast spell; now shoots 5 orbs of fire in a fan in front of the caster, increased mp cost to 18, and added light stagger
 
 -changed Poison Cloud to Torpefy, an ignite-like spell with 100 physical AR that causes buildup of strong bleed and chips through shields; v1.03 increased cost to 24mp
 
--changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150
+-changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150; v1.05 increased stamina cost to 200
 
--changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice
+-changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 increased the AR of a direct hit to 348
 
 -changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec; v1.03 increased cost to 35mp
 
--reduced slot length of Second Chance to 1
+-reduced slot length of Second Chance to 1; v1.05 increased stamina cost to 200
 
 -changed Death Cloud to Wind Slice, a spell that creates a lacerating blade of wind that pierces enemies; has 150 magic AR, costs 18mp, and costs Allant's soul to obtain; v1.04 lifted casting angle by 2 degrees, slightly reduced velocity, increased bullet size to match visual effect, and enabled bullet to penetrate map
 
--reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff; v1.04 increased effect duration to 45 seconds
+-reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff; v1.04 increased effect duration to 45 seconds; v1.05 reduced slot length to 1, increased attack buff to 20%, increased duration to 60 seconds, restricted buff to spells and miracles only, and fixed a bug (details at the bottom)
 
--increased Regenerate regen to 1.5%HP/s
+-increased Regeneration regen to 1.5%HP/s
 
 -changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke; v1.04 increased base Fire AR and stamina attack to 300
 
--changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220
+-changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220; v1.05 increased magic AR to 250
+
+-v1.05 increased God's Wrath magic AR to 400
 
 ----------------------------------
 
@@ -582,7 +584,7 @@ NPC's/Enemies
 
 -increased 1-4 White Bow NPC vit to 20
 
--increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, added NPC MP regen special effect, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow.
+-increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, added NPC MP regen special effect, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow; v1.05 reduced Monk-NPC-exclusive Magic and Fire defense multiplier from 2.5 to 1, which helps offset the Cling Ring HP buff the boss received
 
 -changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
@@ -752,6 +754,8 @@ Movesets
 
 -v1.04 increased hyperarmor window for Soulsucker and Will-o-wisp casting animation
 
+-v1.05 changed rapier moveset as follows: 1h and 2h running r1 animations now same as respective dagger running r1 animations and reduced stagger to level 2, first 2h r1 animation now same as 2h dagger first r1 animation, and reduced attack modifiers of 1h and 2h rolling r1 attacks to 0.8 and 0.9 respectively
+
 ----------------------------------
 
 Text
@@ -812,7 +816,7 @@ Text
 
 -changed name and description of Death Cloud to Wind Slice to describe new effect with lore context
 
--changed description of Soul Thirst to describe new effect
+-changed description of Soul Thirst to describe new effect; v1.05 modified description to define the revised effects of the spell
 
 -added description of Simpleton's Catalyst
 
@@ -881,6 +885,8 @@ Icon Edits
 -created custom icon for 5-2 swamp roll mechanic
 
 -created custom icon for Emit Force
+
+-created custom game thumbnail for mod to replace vanilla thumbnail
 
 ----------------------------------
 
@@ -1028,10 +1034,14 @@ Maps
 
 -v1.04 changed corpse loot in 5-2 to Pure Bladestone
 
-----------------------------------
-1.02 Bug fixes:
+-v1.05 added two more scale miners in 1-1 in areas where rock throw was silent
 
--fixed bug with catalyst and talisman kicks granting i-frames
+----------------------------------
+Bug fixes:
+
+-v1.02 fixed bug with catalyst and talisman kicks granting i-frames
+
+-v1.05 fixed bug where Soul Thirst wasn't buffing spells and miracles
 
 ----------------------------------
 
