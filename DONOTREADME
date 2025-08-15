@@ -371,7 +371,7 @@ Spells
 
 -changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150; v1.05 increased stamina cost to 200
 
--changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 increased the AR of a direct hit to 348, mp cost to 35, and stamina cost to 60
+-changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 increased the AR of a direct hit to 348, mp cost to 35, and stamina cost to 120
 
 -changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec; v1.03 increased cost to 35mp
 
@@ -600,7 +600,7 @@ NPC's/Enemies
 
 -changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set
 
--changed Acolyte of God NPC equipment to False Moonlight+5 and Mirdan armor set, increased his strength to 14, increased his vitality to 27, increased his endurance to 27, and added False Moonlight as a drop
+-changed Acolyte of God NPC equipment to False Moonlight+5 and Mirdan armor set, increased his strength to 14, increased his vitality to 27, increased his endurance to 27, and added False Moonlight as a drop; v1.05 equipped Mirdan Helmet
 
 -added Sanctified Talisman to Worshipper of God NPC equipment and drop, increased strength to 14, increased dexterity to 12, and changed right hand weapon to Blessed Mirdan Hammer+5
 
