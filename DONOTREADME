@@ -237,6 +237,8 @@ Attack modifiers
 
 -v1.03 removed flat stamina damage of shield attacks
 
+-v1.05 slightly reduced the attack modifiers for curved sword 1h and 2h push attacks
+
 ----------------------------------
 
 Shields
@@ -277,7 +279,7 @@ Shields
 
 -increased Rune Shield magic and faith scaling
 
--increased Rune Shield faith requirement to 18
+-increased Rune Sword faith requirement to 18
 
 -increased Rune Shield faith requirement to 18
 
@@ -866,6 +868,8 @@ Text
 
 -v1.05 improved descriptions of several weapons, armor pieces, and rings
 
+-v1.05 merged the text of two dev messages in the Nexus into one, edited the redundant message to include basic weapon upgrade breakpoints, and moved it next to Boldwin
+
 ----------------------------------
 
 Icon Edits
@@ -1048,6 +1052,8 @@ Bug fixes:
 -v1.05 fixed bug that gave Rock Throw friendly fire
 
 -v1.05 fixed bug where Needle of Eternal Agony still had a stat requirement for magic
+
+-v1.05 fixed bug where second hit of curved sword push attacks did not have active hitboxes
 
 ----------------------------------
 
