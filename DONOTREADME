@@ -505,7 +505,7 @@ Non-healing consumables
 
 -increased Heavy Bolt physical AR to 80
 
--decreased Black Bold physical AR to 0 and increased magic AR to 40
+-decreased Black Bolt physical AR to 0 and increased magic AR to 40
 
 -reduced consumable weapon buff weights to 0.1
 
@@ -763,6 +763,8 @@ Movesets
 -v1.05 changed rapier moveset as follows: 1h and 2h running r1 animations now same as respective dagger running r1 animations and reduced stagger to level 2, first 2h r1 animation now same as 2h dagger first r1 animation, and reduced attack modifiers of 1h and 2h rolling r1 attacks to 0.8 and 0.9 respectively
 
 -v1.05 added hyperarmor to the 2nd 1h r2, 1st 2h r1, and 3rd 2h r1 attacks for ultra greatswords
+
+-v1.05 removed parryable windows from ultra greatsword 2h r1 attack string
 
 ----------------------------------
 
