@@ -215,6 +215,8 @@ Weapons
 
 -v1.04 increased crit throw rate of Geri's Stiletto to 10 and increased magic scaling
 
+-v1.05 reduced base physical AR and increased strength scaling of all catalysts and talismans
+
 ----------------------------------
 
 Attack modifiers
@@ -359,11 +361,11 @@ Spells
 
 -changed Antidote miracle to Flame Weapon buff, which scales with faith, is cast with talismans, has 130 base damage, costs 50000 souls from Follower of God NPC shop OR 30000 souls from Saint Urbain NPC shop, deals self-damage at a rate of 0.2%MaxHP per 0.5sec, and costs 60MP to cast
 
--changed Resurrection miracle to Cloud of Flies miracle; creates fly explosion with 220 physical AR, inflicts flies status effect on hit that deals 0.7%hp/sec for 20sec, costs 50 mp, and costs the Dirty Colossus Soul to obtain; v1.05 increased physical AR to 500, increased flies status effect to 1%hp/sec, and increased cost to 60MP
+-changed Resurrection miracle to Cloud of Flies miracle; creates fly explosion with 220 physical AR, inflicts flies status effect on hit that deals 0.7%hp/sec for 20sec, costs 50 mp, and costs the Dirty Colossus Soul to obtain; v1.05 increased physical AR to 270, increased flies status effect to 1%hp/sec, and increased cost to 60MP
 
 -changed Homing Soul Arrow bullet effect to Maneater Homing Soul Arrow, removed floating stage for faster cast, reduced MP cost to 30, reduced magicAR to 75, and reduced number of bullets to spray of 3 with improved homing ability; v1.03 now costs Maneater Soul to obtain
 
--changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit; v1.05 increases physical AR to 250
+-changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit; v1.05 decreased physical AR to 150
 
 -changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%; v1.03 changed this back to flat recovery and increased value to 1000; v1.05 increased stamina cost to 200
 
@@ -373,7 +375,7 @@ Spells
 
 -changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150; v1.05 increased stamina cost to 200
 
--changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 increased the AR of a direct hit to 348, mp cost to 35, and stamina cost to 120
+-changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 decreased the AR of a direct hit to 188, decreased the splash AR to 44, increased the mp cost to 35, and increased the stamina cost to 120
 
 -changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec; v1.03 increased cost to 35mp
 
@@ -759,6 +761,8 @@ Movesets
 -v1.04 increased hyperarmor window for Soulsucker and Will-o-wisp casting animation
 
 -v1.05 changed rapier moveset as follows: 1h and 2h running r1 animations now same as respective dagger running r1 animations and reduced stagger to level 2, first 2h r1 animation now same as 2h dagger first r1 animation, and reduced attack modifiers of 1h and 2h rolling r1 attacks to 0.8 and 0.9 respectively
+
+-v1.05 added hyperarmor to the 2nd 1h r2, 1st 2h r1, and 3rd 2h r1 attacks for ultra greatswords
 
 ----------------------------------
 
