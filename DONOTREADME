@@ -75,7 +75,7 @@ Weapons
 
 -reduced all Dragon weapon physical base AR by ~59%, fire base AR by ~18%, and enabled Luck scaling
 
--increased Great Club strength scaling
+-increased Great Club strength scaling; v1.05 increased base AR by 10 and reduced stamina costs by 10%
 
 -added 0.8%hp self-damage effect to Needle of Eternal Agony
 
@@ -221,6 +221,9 @@ Weapons
 
 -v1.05 reduced strength scaling of Meat Cleaver to 110, increased dexterity scaling to 230, reduced base magic AR to 70, increased magic scaling to 110, removed faith scaling, reduced strength req to 22, increased dex req to 20, increased magic req to 16, and removed faith req
 
+-v1.05 increased the magic block of Club and Great Club to 40
+
+-v1.05 reduced strength req for all Guillotine Axe variants
 
 ----------------------------------
 
@@ -770,6 +773,10 @@ Movesets
 -v1.05 added hyperarmor to the 2nd 1h r2, 1st 2h r1, and 3rd 2h r1 attacks for ultra greatswords
 
 -v1.05 removed parryable windows from ultra greatsword 2h r1 attack string
+
+-v1.05 added debris visual effect for ultra greatsword 2nd 2h r2 attack, increased the hitbox range to 2.5, and lengthened the hitbox active time slightly
+
+-v1.05 reduced the cooldown between the 1st 2h r2 attack and any follow-up attack
 
 ----------------------------------
 
