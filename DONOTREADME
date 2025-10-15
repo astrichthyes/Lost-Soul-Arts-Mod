@@ -75,7 +75,7 @@ Weapons
 
 -reduced all Dragon weapon physical base AR by ~59%, fire base AR by ~18%, and enabled Luck scaling
 
--increased Great Club strength scaling; v1.05 increased base AR by 10, reduced stamina costs by 10%, and increased kick stamina cost to 50
+-increased Great Club strength scaling; v1.05 increased base AR by 10, reduced stamina costs by 10%, increased kick stamina cost to 50, and enabled buffs
 
 -added 0.8%hp self-damage effect to Needle of Eternal Agony
 
@@ -602,7 +602,7 @@ NPC's/Enemies
 
 -changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
--changed 4-2 dual katanas black phantom weapons to Makoto, offset the hp degen effect with equal regen, and increased magic stat to 18
+-changed 4-2 dual katanas black phantom NPC weapons to Makoto, offset the hp degen effect with equal regen, and increased magic stat to 18
 
 -changed Old King Doran's stock of 99 New Moon Grass to 2 Half Moon Grass
 
@@ -641,6 +641,8 @@ NPC's/Enemies
 -added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss
 
 -v1.05 added new defense buff for NPC's to help guard against accidental aggro or one-shotting, along with a debuff to counteract it when their HP falls below 99%
+
+-v1.05 decreased the drop rate for Uchigatana from the 4-1 and 4-2 black skeletons
 
 ----------------------------------
 
@@ -1063,6 +1065,8 @@ Maps
 -v1.04 changed corpse loot in 5-2 to Pure Bladestone
 
 -v1.05 added two more scale miners in 1-1 in areas where rock throw was silent
+
+-v1.05 moved the 3-3 archstone back so the boss room can be used for boss room duels without obstructions
 
 ----------------------------------
 Bug fixes:
