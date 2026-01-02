@@ -728,13 +728,13 @@ Movesets
 
 -changed fist weapon R2 attack animation to right hook
 
--changed greatsword 1h R2, first 2h R1, 2h running R1, and 1h rolling R1 knockdown to heavy stagger
+-changed ultra greatsword 1h R2, first 2h R1, 2h running R1, and 1h rolling R1 knockdown to heavy stagger
 
--changed greatsword second 2h R2 from heavy stagger to knockdown
+-changed ultra greatsword second 2h R2 from heavy stagger to knockdown
 
 -increased stamina damage of greatsword second 2h R1 and third 2h R1
 
--increased attack multipliers of greatsword third 2h R1 and second 2h R2
+-increased attack multipliers of ultra greatsword third 2h R1 and second 2h R2
 
 -changed fist weapon R2 stagger from moderate to heavy
 
@@ -780,7 +780,7 @@ Movesets
 
 -v1.05 added debris visual effect for ultra greatsword 2nd 2h r2 attack, increased the hitbox range to 2.5, and lengthened the hitbox active time slightly
 
--v1.05 reduced the cooldown between the 1st 2h r2 attack and any follow-up attack
+-v1.05 reduced the cooldown between the ultra greatsword 1st 2h r2 attack and any follow-up attack
 
 ----------------------------------
 
