@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.05beta
+ProjectAstri_LostSoulArtsMod_v1.06
 
 
 Weapons
@@ -103,9 +103,9 @@ Weapons
 
 -decreased Northern Regalia base physAR and base magAR to 65, added 3 strength/dex/magic/faith scaling, and enabled Luck scaling
 
--decreased Soulbrandt base physAR and base magic AR to 60, added 3 strength/dex/magic scaling, and enabled Luck scaling
+-decreased Soulbrandt base physAR and base magic AR to 60, added 3 strength/dex/magic scaling, and enabled Luck scaling; v1.06 reduced base physAR and base magic AR to 50
 
--decreased Demonbrandt base physAR and base magic AR to 60, added 3 strength/dex/faith scaling, enabled Luck scaling, and reduced anti-demon damage to 1.0
+-decreased Demonbrandt base physAR and base magic AR to 60, added 3 strength/dex/faith scaling, enabled Luck scaling, and reduced anti-demon damage to 1.0; v1.06 reduced base physAR and base magic AR to 50
 
 -increased guardpoke stamina cost of rapiers to 25
 
@@ -201,7 +201,7 @@ Weapons
 
 -reduced Morion Blade base physical AR to 0, increased base magic AR to 150, reduced dex req to 8, increased faith req to 16, increased faith scaling to 115 (up to 180 upgraded), made upgradeable with Colorless Demon's Souls, added Hiltless self-damage effect, and added hp-conditional regen on hit to offset self-damage at low hp
 
--added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls; v1.03 enabled weapon buffs
+-added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls; v1.03 enabled weapon buffs; v1.06 slightly increased base AR of lower upgrades of False Moonlight and increased base AR of max upgrade by 10
 
 -v1.03 all boss weapons now evolve from +0 weapons
 
@@ -224,6 +224,8 @@ Weapons
 -v1.05 increased the magic block of Club and Great Club to 40
 
 -v1.05 reduced strength req for all Guillotine Axe variants
+
+-v1.06 fixed all Dragon weapon infusions to start at +6
 
 ----------------------------------
 
@@ -539,7 +541,7 @@ Non-healing consumables
 
 -v1.03 reduced weight of Ed's Grindstone to 0.1
 
--v1.03 increased total obtainable Colorless Demon Souls to 20 per playthrough
+-v1.03 increased total obtainable Colorless Demon Souls to 20 per playthrough, not including purchasable ones
 
 ----------------------------------
 
@@ -551,6 +553,11 @@ Ore
 
 -increased drop rates for ores from various mobs
 
+-v1.06 slightly increased drop rates for Dragonstone Chunks and Pures
+
+-v1.06 slightly reduced drop rates for various ores that were dropping too frequently
+
+-v1.06 slightly reduced ore costs for most weapon upgrades
 
 ----------------------------------
 
@@ -582,7 +589,7 @@ NPC's/Enemies
 
 -changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, increased intelligence to 99, and added NPC MP regen special effect
 
--changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24
+-changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24; v1.06 changed ore drop to Dragonstone Chunks
 
 -replaced Stone of Ephemeral Eyes Follower of God NPC gift with Sanctified Talisman
 
@@ -644,6 +651,12 @@ NPC's/Enemies
 
 -v1.05 decreased the drop rate for Uchigatana from the 4-1 and 4-2 black skeletons
 
+-v1.06 removed character tendency and world tendency shifts from killing new black phantom NPC's
+
+-v1.06 added character tendency shift and increased world tendency shift from killing Old Monk NPC boss
+
+-v1.06 slightly reduced Old King Doran's physical and fire defense modifiers
+
 ----------------------------------
 
 Shops
@@ -652,7 +665,7 @@ Shops
 
 -removed purchase limit and event flag for White Arrows in Patches the Hyena NPC shop
 
--removed purchase limit for Dark Moon Grass in Patches the Hyena NPC shop
+-removed purchase limit for Dark Moon Grass in Patches the Hyena NPC shop; v1.06 this item was not showing up in v1.05, which has now been fixed
 
 -changed Fresh Spice to Old Spice in Patches the Hyena NPC shop
 
@@ -660,41 +673,70 @@ Shops
 
 -added Chunk of Dragonstone in Filthy Man NPC shop and set cost to 10000 souls
 
+-v1.06 added Pure Dragonstone in Filthy Man NPC shop and set cost to 50000 souls
+
 -added Chunk of Moonlightstone in Once-Royal Mistress NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Moonlightstone in Once-Royal Mistress NPC shop and set cost to 50000 souls
 
 -added Chunk of Greystone in Filthy Man NPC shop and set cost to 10000 souls
 
+-V1.06 added Pure Greystone in Filthy Man NPC shop and set cost to 50000 souls
+
 -added Chunk of Clearstone in Filthy Man NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Clearstone in Filthy Man NPC shop and set cost to 50000 souls
 
 -added Chunk of Spiderstone in Filthy Man NPC shop and set cost to 10000 souls
 
--added Chunk of Faintstone in Filthy Woman NPC shop and set cost to 20000 souls
+-v1.06 added Shard of Spiderstone in Filthy Man NPC shop and set cost to 3000 souls
+
+-v1.06 added Pure Spiderstone in Filthy Man NPC shop and set cost to 50000 souls
+
+-added Chunk of Faintstone in Filthy Woman NPC shop and set cost to 20000 souls; v1.06 reduced price to 15000 souls
+
+-v1.06 added Pure Faintstone in Filthy Woman NPC shop and set cost to 60000 souls
 
 -added Chunk of Darkmoonstone in Bilge NPC shop and set cost to 15000 souls
 
+-v1.06 added Pure Darkmoonstone in Bilge NPC shop and set cost to 60000 souls
+
 -added Chunk of Cloudstone in Bilge NPC shop and set cost to 10000 souls
 
--added Shard of Bladestone in Bilge NPC shop and set cost to 2000 souls
+-v1.06 added Pure Cloudstone in Bilge NPC shop and set cost to 50000 souls
+
+-added Shard of Bladestone in Bilge NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
 
 -added Chunk of Bladestone in Bilge NPC shop and set cost to 10000 souls
 
+-v1.06 added Pure Bladestone in Bilge NPC shop and set cost to 50000 souls
+
 -added Shard of Mercurystone in Once-Royal Mistress NPC shop and set cost to 3000 souls
 
--added Chunk of Mercurystone in Once-Royal Mistress NPC shop and set cost to 15000 souls
+-added Chunk of Mercurystone in Once-Royal Mistress NPC shop and set cost to 15000 souls; v1.06 reduced price to 10000 souls
 
--added Shard of Suckerstone in Filthy Woman NPC shop and set cost to 2000 souls
+-v1.06 added Pure Mercurystone in Once-Royal Mistress NPC shop and set cost to 50000 souls
+
+-added Shard of Suckerstone in Filthy Woman NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
 
 -added Chunk of Suckerstone in Filthy Woman NPC shop and set cost to 10000 souls
 
--added Shard of Marrowstone in Filthy Woman NPC shop and set cost to 2000 souls
+-v1.06 added Pure Suckerstone in Filthy Woman NPC shop and set cost to 50000 souls
+
+-added Shard of Marrowstone in Filthy Woman NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
 
 -added Chunk of Marrowstone in Filthy Woman NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Marrowstone in Filthy Woman NPC shop and set cost to 50000 souls
 
 -added Shard of Meltstone in Filthy Man NPC shop and set cost to 3000 souls
 
 -added Voidstone in Blacksmith Boldwin NPC shop and set cost to 150 souls
 
--added Colorless Demon Soul in Patches NPC shop and set cost to 30000 souls
+-added Colorless Demon Soul in Patches NPC shop and set cost to 30000 souls; v1.06 this item was not showing up in v1.05, which has now been fixed
+
+-v1.06 added Shard of Spiderstone in Filthy Man NPC shop and set cost to 3000 souls
+
 
 ----------------------------------
 
@@ -893,6 +935,10 @@ Text
 -v1.05 improved descriptions of several weapons, armor pieces, and rings
 
 -v1.05 merged the text of two dev messages in the Nexus into one, edited the redundant message to include basic weapon upgrade breakpoints, and moved it next to Boldwin
+
+-v1.06 shortened the healing formulas in all grass item descriptions
+
+-v1.06 shortened the text of several spells and miracles to better align in menus
 
 ----------------------------------
 
