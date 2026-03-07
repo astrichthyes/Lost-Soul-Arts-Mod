@@ -73,9 +73,9 @@ I'll spare you all the essay and simply say that there is so much under the hood
 
 **BEFORE YOU INSTALL:**
 
-***FIRST WARNING: PLEASE BE AWARE THAT THE CONTENTS OF THIS MOD ARE NOT YET APPROVED FOR USE ONLINE. THIS WOULD ONLY BE ACCEPTABLE ON A SERVER DEDICATED TO THE MOD, WHICH I DO NOT HAVE THE BANDWIDTH TO CREATE OR MANAGE.***
+***FIRST WARNING: THE CONTENTS OF THIS MOD ARE ONLY APPROVED FOR USE ON OUR EXCLUSIVE PRIVATE SERVER.***
 
-***SECOND WARNING: IT IS RECOMMENDED THAT YOU START WITH FRESH SAVES. THERE IS A CHANCE THAT TRYING TO USE PRE-MODDED SAVES WILL CAUSE THEM TO BREAK. EX. MY CHARACTER FROM AN OLD SAVE HAD PERMANENTLY-EMPTY SPELL SLOTS.***
+***SECOND WARNING: IT IS RECOMMENDED THAT YOU START WITH FRESH SAVES. USING VANILLA SAVES WILL CAUSE THEM TO BREAK. FOR EXAMPLE: MY CHARACTER FROM AN OLD SAVE HAD PERMANENTLY-EMPTY SPELL AND MIRACLE SLOTS.***
 
 ----------------------------------
 
@@ -201,3 +201,8 @@ m06_00_00_00.msb  []
 m06_01_00_00.msb  []
 
 m06_02_00_00.msb  []
+
+
+Connecting to the Lost Soul Arts Server:
+
+-Paste the contents of the "IsalP(1).txt" file into your RPCS3 network settings under both RPCS3 Config>Network and in a Custom Boot Configuration you can make when you right click on Demon's Souls in RPCS3. Make sure RPCN is enabled. The video linked here shows the steps >> https://youtu.be/CtgcGENn6Ks
