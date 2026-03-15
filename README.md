@@ -50,6 +50,18 @@ I'll spare you all the essay and simply say that there is so much under the hood
 
 ----------------------------------
 
+**Media:**
+
+Pre-release Teaser: https://youtu.be/fw4lotY7Kdk
+
+Release Trailer: https://youtu.be/zZ_DbephHyU
+
+Mod Installation Guide: https://youtu.be/_B9KBlOpKsY
+
+Multiplayer Trailer and Setup Guide: https://youtu.be/LP_UJTtT4g8
+
+----------------------------------
+
 **Known Issues:**
 
 -Some spells and miracles do not show up in shops at the right time (after defeating the boss whose soul you use to purchase them).
