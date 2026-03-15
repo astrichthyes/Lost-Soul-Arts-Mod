@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.06
+ProjectAstri_LostSoulArtsMod_v1.07
 
 
 Weapons
@@ -619,7 +619,7 @@ NPC's/Enemies
 
 -changed 2-2 male NPC black phantom equipment to Morion Blade, Chain armor set, Clever Rat Ring, and Dull Rat Ring; also increased Vitality to 25, Endurance to 30, and Faith to 16; also changed Chunk Dragonstone loot to Morion Blade
 
--changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set
+-changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set; v1.07 reduced NG+ modifiers and switched to Wooden Bolts
 
 -changed Acolyte of God NPC equipment to False Moonlight+5 and Mirdan armor set, increased his strength to 14, increased his vitality to 27, increased his endurance to 27, and added False Moonlight as a drop; v1.05 equipped Mirdan Helmet
 
@@ -645,7 +645,7 @@ NPC's/Enemies
 
 -added new NPC black phantom in 2-2 with dual Hands of God+5
 
--added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss
+-added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss; v1.07 reduced NG+ modifiers
 
 -v1.05 added new defense buff for NPC's to help guard against accidental aggro or one-shotting, along with a debuff to counteract it when their HP falls below 99%
 
@@ -656,6 +656,8 @@ NPC's/Enemies
 -v1.06 added character tendency shift and increased world tendency shift from killing Old Monk NPC boss
 
 -v1.06 slightly reduced Old King Doran's physical and fire defense modifiers
+
+-v1.07 increased souls gained from defeating some of the new black phantom NPC's
 
 ----------------------------------
 
@@ -737,6 +739,7 @@ Shops
 
 -v1.06 added Shard of Spiderstone in Filthy Man NPC shop and set cost to 3000 souls
 
+-v1.07 improved organization of expanded shop inventories
 
 ----------------------------------
 
@@ -939,6 +942,8 @@ Text
 -v1.06 shortened the healing formulas in all grass item descriptions
 
 -v1.06 shortened the text of several spells and miracles to better align in menus
+
+-v1.07 fixed typo in the Will-o-Wisp spell description
 
 ----------------------------------
 
