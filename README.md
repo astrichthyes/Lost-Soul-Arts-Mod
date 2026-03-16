@@ -68,6 +68,7 @@ Multiplayer Trailer and Setup Guide: https://youtu.be/LP_UJTtT4g8
 
 -Status does not display properly on weapons.
 
+-Some spells do not have sound effects, which I have not been able to fix.
 
 ***I'm working on all of these, but may not be able to fix them if they're hardcoded.***
 
@@ -91,130 +92,17 @@ Multiplayer Trailer and Setup Guide: https://youtu.be/LP_UJTtT4g8
 
 ----------------------------------
 
-Installing the mod:
+**Installing the mod:**
 
-The mod files are divided into the root path they should go in. Drag and drop the files within your game folders matching their respective root paths to replace the vanilla files. On PC, it will prompt you asking if you want to replace the files for every file. DO NOT DRAG AND DROP WHOLE FOLDERS. I have NOT included the vanilla files. I've listed all of the mod files and their root paths below. Use this as a checklist to ensure you correctly install the mod.
+The mod files are divided into the root path they should go in to make the installation easy. Follow these instructions:
+-Download the mod
+-Rename your Demon's Souls game folder "Demons Souls BLUS30443" if it is not already called that.
+-Open the zipped mod folder. Inside, you should see a few files and a sub-folder called "Demons Souls BLUS30443". Copy that folder.
+-Go to the location of your game folder and paste it. You'll know you're pasting it in the right location if you get a prompt asking if you want to replace files of the same name. Once this is done, the mod has been installed, but you'll want to verify that.
+-Boot the game and create a new character or use an existing modded character to go to the Nexus. There should be a developer message in front of the blacksmith telling you about upgrades.
 
+----------------------------------
 
-Replace the menu files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>menu
+**Connecting to the Lost Soul Arts Server:**
 
-menu.tpf  []
-
-menu.tpf.dcx  []
-
-
-Replace the script files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>script:
-
-m02.luabnd  []
-
-m02.luabnd.dcx  []
-
-m02.luabnd.dcx.sdat  []
-
-m03.luabnd  []
-
-m03.luabnd.dcx  []
-
-m03.luabnd.dcx.sdat  []
-
-m04.luabnd  []
-
-m04.luabnd.dcx  []
-
-m04.luabnd.dcx.sdat  []
-
-m06.luabnd  []
-
-m06.luabnd.dcx  []
-
-m06.luabnd.dcx.sdat  []
-
-
-Replace the sfx files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>sfx:
-
-ds_sfxbnd_commoneffects.ffxbnd  []
-
-ds_sfxbnd_commoneffects.ffxbnd.dcx  []
-
-
-Replace the anibnd files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>chr>c0000
-
-c0000.anibnd  []
-
-c0000.anibnd.dcx  []
-
-c0000_a2x.anibnd  []
-
-c0000_a2x.anibnd.dcx  []
-
-c0000_a3x.anibnd  []
-
-c0000_a3x.anibnd.dcx  []
-
-c0000_a4x.anibnd  []
-
-c0000_a4x.anibnd.dcx  []
-
-
-Replace the gameparam files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>param>gameparam
-
-gameparam.parambnd  []
-
-gameparam.parambnd.dcx  []
-
-gameparamna.parambnd  []
-
-gameparamna.parambnd.dcx  []
-
-
-Replace the text files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>msg>na_english
-
-menu.msgbnd  []
-
-menu.msgbnd.dcx  []
-
-item.msgbnd  []
-
-item.msgbnd.dcx  []
-
-
-Replace the map files listed below in Demons Souls BLUS30443>PS3_GAME>USRDIR>map>mapstudio
-
-m01_00_00_00.msb  []
-
-m02_00_00_00.msb  []
-
-m02_01_00_00.msb  []
-
-m02_02_00_00.msb  []
-
-m02_03_00_00.msb  []
-
-m03_01_00_00.msb  []
-
-m03_02_00_00.msb  []
-
-m03_03_00_00.msb  []
-
-m04_00_00_00.msb  []
-
-m04_01_00_00.msb  []
-
-m04_02_00_00.msb  []
-
-m05_00_00_00.msb  []
-
-m05_01_00_00.msb  []
-
-m05_02_00_00.msb  []
-
-m06_00_00_00.msb  []
-
-m06_01_00_00.msb  []
-
-m06_02_00_00.msb  []
-
-
-Connecting to the Lost Soul Arts Server:
-
--Paste the contents of the "IsalP(1).txt" file into your RPCS3 network settings under both RPCS3 Config>Network and in a Custom Boot Configuration you can make when you right click on Demon's Souls in RPCS3. Make sure RPCN is enabled. The video linked here shows the steps >> https://youtu.be/CtgcGENn6Ks
+-Paste the contents of the "IsalP(1).txt" file into your RPCS3 network settings under both RPCS3 Config>Network and in a Custom Boot Configuration you can make when you right click on Demon's Souls in RPCS3. Make sure RPCN is enabled. The video linked here shows the steps >> https://youtu.be/LP_UJTtT4g8
