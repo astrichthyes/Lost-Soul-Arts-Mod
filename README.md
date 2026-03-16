@@ -95,10 +95,15 @@ Multiplayer Trailer and Setup Guide: https://youtu.be/LP_UJTtT4g8
 **Installing the mod:**
 
 The mod files are divided into the root path they should go in to make the installation easy. Follow these instructions:
+
 -Download the mod
+
 -Rename your Demon's Souls game folder "Demons Souls BLUS30443" if it is not already called that.
+
 -Open the zipped mod folder. Inside, you should see a few files and a sub-folder called "Demons Souls BLUS30443". Copy that folder.
+
 -Go to the location of your game folder and paste it. You'll know you're pasting it in the right location if you get a prompt asking if you want to replace files of the same name. Once this is done, the mod has been installed, but you'll want to verify that.
+
 -Boot the game and create a new character or use an existing modded character to go to the Nexus. There should be a developer message in front of the blacksmith telling you about upgrades.
 
 ----------------------------------
