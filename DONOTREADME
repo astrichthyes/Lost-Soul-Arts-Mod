@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.07
+ProjectAstri_LostSoulArtsMod_v1.08
 
 
 Weapons
@@ -353,6 +353,12 @@ Stealth
 
 -audibility distance decreased for Graverobber Ring and Thief's Ring
 
+-v1.08 increased sound reduction of Thief's Ring to 90% and visibility range reduction to 40%
+
+-v1.08 increased sound reduction of Graverobber Ring to 90% and visibility range reduction to 45%
+
+-v1.08 increased sound reduction of Cloak to 100%
+
 ----------------------------------
 
 Hypermode
@@ -397,7 +403,7 @@ Spells
 
 -reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff; v1.04 increased effect duration to 45 seconds; v1.05 reduced slot length to 1, increased attack buff to 20%, increased duration to 60 seconds, restricted buff to spells and miracles only, and fixed a bug (details at the bottom)
 
--increased Regeneration regen to 1.5%HP/s
+-increased Regeneration regen to 1.5%HP/s; v1.08 increased Regeneration duration from 100 seconds to 120 seconds
 
 -changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke; v1.04 increased base Fire AR and stamina attack to 300
 
@@ -463,6 +469,16 @@ Status
 
 -changed properties of 5-2 poison swamp so that the player character is not restricted to the "overburdened" state (no roll) and instead has their maximum equip load reduced to 30%, with new icon indicating when the effect is active
 
+-v1.08 increased flat bleed damage values by 1 for Bleed 9, Bleed 10, Great Club bleed, Penitent Nails bleed, Torpefy bleed, Makoto+3 bleed, Makoto+4 bleed, and Makoto+5 bleed
+
+-v1.08 increased bleed HP% for all types by ~30-35%
+
+-v1.08 increased flat poison damage values by 1 for Poison 5
+
+-v1.08 increased poison HP% for all types by ~30-35%
+
+-v1.08 increased plague HP% for all types by ~30-35%
+
 ----------------------------------
 
 Regen
@@ -499,9 +515,15 @@ Healing consumables
 
 -changed Spice MP recovery from flat to %MP regen and added MP regeneration aura and status icon for active spice effects
 
+-v1.08 changed Fresh Spice MP regen from 5% MP per tic to 4%MP+3MP per tic to buffer for lower level characters
+
+-v1.08 increased rate of Old Spice MP regen from 4% MP per second for 25 seconds to 5%MP per second for 20 seconds
+
 -reduced Dark Moon Grass healing effect to 10% HP, maintaining instantaneous effect; v1.03 further reduced healing to 5% HP
 
 -added regeneration aura and status icon for active grass effects
+
+-v1.08 gave each grass and spice their own unique icon to differentiate them from passive regen effects and from each other
 
 ----------------------------------
 
@@ -583,11 +605,11 @@ NPC's/Enemies
 
 -changed upgrade level of Garl's Bramd from +5 to +0
 
--changed White Bow NPC black phantom secondary weapon to Large Sword of Moonlight, swapped wooden catalyst out for talisman of god, swapped Firestorm for Penitent Nails Miracle, changed armor to Mirdan set, equipped Ring of Great Strength, and increased faith stat to 24
+-changed White Bow NPC black phantom secondary weapon to Large Sword of Moonlight, swapped wooden catalyst out for talisman of god, swapped Firestorm for Penitent Nails Miracle, changed armor to Mirdan set, equipped Ring of Great Strength, and increased faith stat to 24; v1.08 reduced White Bow upgrade to +0 and removed the helmet
 
--changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear
+-changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear; v1.08 reduced Fatal Winged Spear to +1
 
--changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, increased intelligence to 99, and added NPC MP regen special effect
+-changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, increased intelligence to 99, and added NPC MP regen special effect; v1.07.1 changed Homing Soul Arrow to Wind Slice and reduced Crescent Flamberge upgrade to +1
 
 -changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24; v1.06 changed ore drop to Dragonstone Chunks
 
@@ -617,7 +639,7 @@ NPC's/Enemies
 
 -changed Satsuki's stock of 10 New Moon Grass to 6 Crescent Moon Grass
 
--changed 2-2 male NPC black phantom equipment to Morion Blade, Chain armor set, Clever Rat Ring, and Dull Rat Ring; also increased Vitality to 25, Endurance to 30, and Faith to 16; also changed Chunk Dragonstone loot to Morion Blade
+-v1.05 added male NPC black phantom to 1-1 with Morion Blade, Chain armor set, Clever Rat Ring, and Dull Rat Ring, who drops a Stone of Ephemeral Eyes and Black Eye Stone
 
 -changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set; v1.07 reduced NG+ modifiers and switched to Wooden Bolts
 
@@ -625,7 +647,7 @@ NPC's/Enemies
 
 -added Sanctified Talisman to Worshipper of God NPC equipment and drop, increased strength to 14, increased dexterity to 12, and changed right hand weapon to Blessed Mirdan Hammer+5
 
--changed Patches equipment to Fatal Short Spear+5 and increased his vitality to 24
+-changed Patches equipment to Fatal Short Spear+5 and increased his vitality to 24; v1.08 reduced upgrade of Fatal Short Spear to +1
 
 -changed Biorr's crossbow bolts to Heavy Bolts and crossbow to Heavy Crossbow+10
 
@@ -643,9 +665,9 @@ NPC's/Enemies
 
 -added new NPC black phantom in 4-2 with Tearing Pickaxe+5, Simpleton's Catalyst, Will-o-wisp, and Rock Throw; v1.03 reduced int to 24
 
--added new NPC black phantom in 2-2 with dual Hands of God+5
+-added new NPC black phantom in 2-2 with dual Hands of God+5; v1.08 reduced Hands of God to +0
 
--added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss; v1.07 reduced NG+ modifiers
+-added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss; v1.07 reduced NG+ modifiers; v1.08 changed Wind Slice and Sludge Toss to Soul Ray and Firespray
 
 -v1.05 added new defense buff for NPC's to help guard against accidental aggro or one-shotting, along with a debuff to counteract it when their HP falls below 99%
 
@@ -658,6 +680,18 @@ NPC's/Enemies
 -v1.06 slightly reduced Old King Doran's physical and fire defense modifiers
 
 -v1.07 increased souls gained from defeating some of the new black phantom NPC's
+
+-v1.08 changed 5-2 Meat Cleaver black phantom NPC stats to 22 strength, 20 dexterity, 16 magic, and 7 faith
+
+-v1.08 moved 4-2 Miner black phantom NPC to the 5-2 swamp
+
+-v1.08 moved the 1-4 Mage black phantom NPC to 4-2
+
+-v1.08 added a new Tower Shield black phantom NPC to 3-2, who aggressively uses Tower Shield as a weapon
+
+-v1.08 replaced the former 1-4 Mage black phantom NPC with another to resemble original Penetrator Sword NPC and gave him a more aggressive AI
+
+-v1.08 increased white world tendency shift for killing "named" NPC black phantoms and Primeval Demons to +200
 
 ----------------------------------
 
@@ -1119,6 +1153,14 @@ Maps
 
 -v1.05 moved the 3-3 archstone back so the boss room can be used for boss room duels without obstructions
 
+-v1.08 replaced the world-tendency-tied debris blocking the Dragon Bone Smasher in 2-3 with breakable debris
+
+-v1.08 made the world-tendency-tied bridge in 3-2 permanent
+
+-v1.08 made 4-2 world-tendency-tied treasure (Makoto in pure white tendency) accessible in all world tendencies except pure white
+
+-v1.08 moved one of the treasure corpses in 5-2 and increased the grass quantity it holds
+
 ----------------------------------
 Bug fixes:
 
@@ -1131,6 +1173,8 @@ Bug fixes:
 -v1.05 fixed bug where Needle of Eternal Agony still had a stat requirement for magic
 
 -v1.05 fixed bug where second hit of curved sword push attacks did not have active hitboxes
+
+-v1.07.1 added missing visual effect to the ultra greatsword moveset
 
 ----------------------------------
 
