@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.08
+ProjectAstri_LostSoulArtsMod_v1.08.1
 
 
 Weapons
@@ -1175,6 +1175,10 @@ Bug fixes:
 -v1.05 fixed bug where second hit of curved sword push attacks did not have active hitboxes
 
 -v1.07.1 added missing visual effect to the ultra greatsword moveset
+
+-v1.08.1 fixed a bug where one of the 3-2 NPC black phantoms was not loading in properly
+
+-v1.08.1 fixed a bug where the character ID for the 4-2 NPC black phantom was incorrect
 
 ----------------------------------
 
