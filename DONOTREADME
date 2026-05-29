@@ -1,4 +1,4 @@
-ProjectAstri_LostSoulArtsMod_v1.08.1
+ProjectAstri_LostSoulArtsMod_v1.08.2
 
 
 Weapons
@@ -227,6 +227,8 @@ Weapons
 
 -v1.06 fixed all Dragon weapon infusions to start at +6
 
+-v1.08.2 enabled buffs for all Fatal weapons
+
 ----------------------------------
 
 Attack modifiers
@@ -345,6 +347,8 @@ Rings
 
 -reduced all ring weights to 0
 
+-v1.08.2 added 130% max MP effect to Ring of Magical Nature and Ring of Devout Prayer
+
 ----------------------------------
 
 Stealth
@@ -410,6 +414,16 @@ Spells
 -changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220; v1.05 increased magic AR to 250
 
 -v1.05 increased God's Wrath magic AR to 400
+
+-v1.08.2 changed Enchant Weapon to Great Lancet, a physical spell where the caster throws a large spear, which has 160 physical AR, takes up 1 slot, costs 20mp to cast, and is obtained by trading the Phalanx Demon Soul
+
+-v1.08.2 changed Relief to Soul Spear, a magic spell where the caster throws a large soul spear, which has 200 magic AR, takes up 2 slots, costs 50mp to cast, and is obtained by trading the Tower Knight Demon Soul with Yuria after Maiden Astraea is defeated
+
+-v1.08.2 replaced Regeneration with Blessed Weapon, a miracle that enchants the right hand weapon at 110 base magic AR, costs 50mp to cast, takes up 1 miracle slot, and applies 0.5%HP+1HP/0.6sec regen for 60 seconds
+
+-v1.08.2 replaced Cure with Regeneration verbatim, only it still requires Leechmonger Soul
+
+
 
 ----------------------------------
 
@@ -495,7 +509,7 @@ Regen
 
 -increased Meat Cleaver HP drain effect to 2.5%
 
--created new HP drain speffects for fatal weapons; weak effect to daggers and rapiers, stronger effect to spears
+-created new HP drain speffects for fatal weapons; weak effect to daggers and rapiers, stronger effect to spears; v1.08.2 added third effect tier, increased regen effect percentages, added flat hp regen for buffer, and reduced motion interval and effect duration
 
 -reduced MP drain effect on Geri's Stiletto; v1.05 reduced the effect endurance and motion interval for MP drain
 
@@ -693,6 +707,8 @@ NPC's/Enemies
 
 -v1.08 increased white world tendency shift for killing "named" NPC black phantoms and Primeval Demons to +200
 
+-v1.08.2 added Soldier's, Royal, and Widow's Lotuses to hidden Scale Miners loot table
+
 ----------------------------------
 
 Shops
@@ -775,6 +791,28 @@ Shops
 
 -v1.07 improved organization of expanded shop inventories
 
+-v1.08.2 added Bastard Sword to Dregling NPC shop and set cost to 4000 souls
+
+-v1.08.2 added Greatsword to Dregling NPC shop and set cost to 30000 souls
+
+-v1.08.2 added Greataxe to Dregling NPC shop and set cost to 30000 souls
+
+-v1.08.2 added Winged Spear to Dregling NPC shop and set cost to 5000 souls
+
+-v1.08.2 added Kilij to Blige NPC shop and set cost to 3000 souls
+
+-v1.08.2 added Compound Shortbow to Blige NPC shop and set cost to 2500 souls
+
+-v1.08.2 added Compound Longbow to Blige NPC shop and set cost to 4000 souls
+
+-v1.08.2 added Uchigatana to Blige NPC shop and set cost to 8000 souls
+
+-v1.08.2 added War Scythe to Blige NPC shop and set cost to 10000 souls
+
+-v1.08.2 added Estoc to Once-Royal Mistress NPC shop and set cost to 2000 souls
+
+-v1.08.2 added Mirdan Hammer to Filthy Woman NPC shop and set cost to 10000 souls
+
 ----------------------------------
 
 Cheat Gear
@@ -789,17 +827,17 @@ Cheat Gear
 
 Movesets
 
--changed greatsword push attacks to kick; still needs testing
+-changed greatsword push attacks to kick
 
--changed greataxe/greathammer push attacks to kick; still needs testing
+-changed greataxe/greathammer push attacks to kick
 
--changed polearm 1h push attack to kick; still needs testing
+-changed polearm 1h push attack to kick
 
--changed polearm 1h first r1 attack to spear thrust; still needs testing
+-changed polearm 1h first r1 attack to spear thrust
 
--changed spear 1h push attack to kick (game references polearm animation for push attack); still needs testing
+-changed spear 1h push attack to kick (game references polearm animation for push attack)
 
--changed fist weapon headbutt to kick; still needs testing
+-changed fist weapon headbutt to kick
 
 -changed Mail Breaker type and moveset to dagger
 
@@ -979,6 +1017,12 @@ Text
 
 -v1.07 fixed typo in the Will-o-Wisp spell description
 
+-v1.08.2 added status effect calculations in the descriptions of all relevant weapons
+
+-v1.08.2 added status effect calculations in the description of Kunai and Rotten Arrows
+
+-v1.08.2 emphasized status effect strength in description of Torpefy
+
 ----------------------------------
 
 Icon Edits
@@ -1002,6 +1046,10 @@ Icon Edits
 -created custom icon for Emit Force
 
 -created custom game thumbnail for mod to replace vanilla thumbnail
+
+-v1.08.2 changed status symbols for many spell/miracle/weapon/ring status effects to their menu icons for aesthetic improvement and greater effect specificity
+
+-1.08.2 created custom icon for Soul Spear
 
 ----------------------------------
 
@@ -1037,7 +1085,7 @@ Starting Classes
 
 -decreased Wanderer class Endurance, Strength, Dexterity, and Luck
 
--replaced Wanderer class Falchion with Broken Sword, removed Dagger right hand subweapon, added Wooden Catalyst to left hand subweapon, and added Enchant Weapon to spell slot
+-replaced Wanderer class Falchion with Broken Sword, removed Dagger right hand subweapon, added Wooden Catalyst to left hand subweapon, and added Enchant Weapon to spell slot; v1.08.2 removed Enchant Weapon spell and gave starting class 6 Black Turpentine and 6 Sticky White Stuff
 
 -renamed Wanderer class to Arcanist
 
@@ -1051,7 +1099,7 @@ Starting Classes
 
 -replaced Temple Knight "Antidote" (Flame Weapon) with Evacuate
 
--increased Priest class faith to 16, reduced vit to 9, reduced int to 10, reduced strength to 12, and moved talisman to left hand
+-increased Priest class faith to 16, reduced vit to 9, reduced int to 10, reduced strength to 12, and moved talisman to left hand; v1.08.2 changed Flame Weapon for Evacuate
 
 ----------------------------------
 
@@ -1160,6 +1208,8 @@ Maps
 -v1.08 made 4-2 world-tendency-tied treasure (Makoto in pure white tendency) accessible in all world tendencies except pure white
 
 -v1.08 moved one of the treasure corpses in 5-2 and increased the grass quantity it holds
+
+-v1.08.2 changed corpse loot in Tutorial level 3 to Fatal Dagger+1
 
 ----------------------------------
 Bug fixes:
