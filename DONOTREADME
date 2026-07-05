@@ -231,6 +231,8 @@ Weapons
 
 -v1.09 added a new arrow type, Barbed Arrow, which has 50 physical AR and inflicts bleed with a rate of 0.63%HP/sec for 60 seconds
 
+-v1.09 restored cut 'Rigid' bow upgrade paths for Short Bow, Long Bow, Compound Short Bow, and Compound Long Bow and reduced strength scaling to be comparable with the Sticky upgrade's dex scaling with slightly reduced range from the normal upgrade path
+
 ----------------------------------
 
 Attack modifiers
