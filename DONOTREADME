@@ -231,7 +231,7 @@ Weapons
 
 -v1.09 added a new arrow type, Barbed Arrow, which has 50 physical AR and inflicts bleed with a rate of 0.63%HP/sec for 60 seconds
 
--v1.09 restored cut 'Rigid' bow upgrade paths for Short Bow, Long Bow, Compound Short Bow, and Compound Long Bow and reduced strength scaling to be comparable with the Sticky upgrade's dex scaling with slightly reduced range from the normal upgrade path
+-v1.09 restored cut 'Rigid' bow upgrade paths for Short Bow, Long Bow, Compound Short Bow, and Compound Long Bow and reduced strength scaling to be comparable with the Sticky upgrade's dex scaling with slightly reduced range compared to the normal upgrade path
 
 ----------------------------------
 
@@ -423,7 +423,7 @@ Spells
 
 -v1.05 increased God's Wrath magic AR to 400
 
--v1.09 changed Enchant Weapon to Great Lancet, a physical spell where the caster throws a large spear, which has 160 physical AR, takes up 1 slot, costs 20mp 50 stamina to cast, pierces enemies (like Soul Ray), and is obtained by trading the Phalanx Demon Soul
+-v1.09 changed Enchant Weapon to Greater Lancet, a physical spell where the caster throws a large spear, which has 160 physical AR, takes up 1 slot, costs 20mp 50 stamina to cast, pierces enemies (like Soul Ray), and is obtained by trading the Phalanx Demon Soul
 
 -v1.09 changed Relief to Soul Spear, a magic spell where the caster throws a large soul spear, which has 200 magic AR, takes up 2 slots, costs 40mp and 50 stamina to cast, and is obtained by trading the Tower Knight Demon Soul with Yuria after Maiden Astraea is defeated
 
@@ -955,7 +955,11 @@ Movesets
 
 -v1.05 reduced the cooldown between the ultra greatsword 1st 2h r2 attack and any follow-up attack
 
--v1.09 changed the first curved sword 2h r2 attack from a downward slash to an upward slash using a cut animation, reduced its stamina cost, and increased its stamina damage multiplier
+-v1.09 changed the first curved sword 2h r2 attack from a downward slash to an upward slash using a cut content animation, reduced its stamina cost, and increased its stamina damage multiplier
+
+-v1.09 reduced the cooldown between the ultra greatsword 1st 2h r1 attack and any follow-up attack and also increased the hyperarmor window
+
+-v1.09 reduced the cooldown between the ultra greatsword 2nd 2h r1 attack and any follow-up attack
 
 ----------------------------------
 
@@ -1143,9 +1147,7 @@ Starting Classes
 
 -decreased Wanderer class Endurance, Strength, Dexterity, and Luck
 
--replaced Wanderer class Falchion with Broken Sword, removed Dagger right hand subweapon, added Wooden Catalyst to left hand subweapon, and added Enchant Weapon to spell slot; v1.09 removed Enchant Weapon spell and gave starting class 6 Black Turpentine and 6 Sticky White Stuff
-
--renamed Wanderer class to Arcanist
+-renamed Wanderer class to Arcanist and replaced Falchion with Broken Sword, removed Dagger right hand subweapon, added Wooden Catalyst to left hand subweapon, and added Enchant Weapon to spell slot; v1.09 removed Enchant Weapon spell and gave starting class 6 Black Turpentine and 6 Sticky White Stuff
 
 -added 2 Fresh Spice to Arcanist starting inventory
 
@@ -1307,7 +1309,7 @@ Bug fixes:
 
 -v1.09 fixed a broken enemy ambush in 2-1
 
--v1.09 fixed broken enemies in 1-3
+-v1.09 fixed a bug where a few enemies in 1-3 would not load in
 
 -v1.09 fixed a bug where some enemies in 5-2 were sometimes falling through the map
 
