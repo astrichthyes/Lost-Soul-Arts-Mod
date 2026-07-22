@@ -6,45 +6,49 @@ Hi All, I'm Astri. I've been playing the Soulsborne games since Demon's Souls st
 
 After the release of the Demon's Souls remake in 2020 and feeling disappointment in the shape it was left in (password summons not downscaled, negative luck, guaranteed wakeups after backstab, etc.), I decided to start the ambitious project of modding the original game in May 2021. My vision was a massive overhaul to improve game balance and promote build diversity while still preserving the heart and soul of the original version (making changes that are neither detrimental to the PvE nor PvP experience). I frankly had no modding experience prior to this, nor do I have any practical background in coding, but with a lot of determination, after three full restarts of the project due to file corruption, and with occasional guidance from incredibly nice people in the Souls modding community like ariane_des and georgekingbore, I was able to bring this idea to fruition.
 
-This is not a very flashy mod, nor was it meant to be. The changes were designed to blend in with the rest of the game as much as possible, **as if they were always meant to be there**. All of the major file edits were made by my own hands using DS Anim Studio, DS Map Studio, Wulf's BND Rebuilder, and True Ancestor 1.65, using assets that already exist in the game to create the new spells and moveset modifications. I modified existing icons for some of the new spells and made some new ones with a DDS unpacker, Clip Studio Paint, and Gimp. It is truly a labor of love that I hope you all enjoy.
+The changes were designed to blend in with the rest of the game as much as possible, **as if they were always meant to be there**. All of the major file edits were made by my own hands using DS Anim Studio, DS Map Studio, Wulf's BND Rebuilder, and True Ancestor 1.65, using assets that already exist in the game to create the new spells and moveset modifications. I modified existing icons for some of the new spells and made some new ones with a DDS unpacker, Clip Studio Paint, and Gimp. It is truly a labor of love that I hope you all enjoy.
 
 ----------------------------------
 
 What's in Lost Soul Arts:
 
--Improved starting classes
+-Respec at will with a new consumable item available in the Nexus
 
--New spells and miracles designed with utility in mind and to fill previously unoccupied niches
+-Grass and spice healing changed to percent regen to improve game balance and provide a more challenging experience
+
+-Revised status effects to percent damage over time and adjusted durations for improved balance
+
+-New spells and miracles with diverse utility replace stale/redundant ones
+
+-Updated some vanilla spells for improved aesthetics and/or functionality
 
 -Most weapons rebalanced/revamped
 
--Modified function/scaling of some upgrade paths
+-Improved starting classes
 
--Some weapon movesets slightly modified....
+-Modified function/scaling of some upgrade paths for improved build diversity
+
+-Slightly revised several weapon movesets
 
 -Armor weights and defenses now more fashion-friendly
 
--Revamped healing mechanics for grass and spice to improve game balance and provide a more challenging experience
-
--Revamped status effect potency and adjusted durations
-
--Respec at will with a new consumable item
-
--Modified some dev messages in the Nexus and Stonefang....
-
--Slightly changed some enemy placement....
-
--Changed some treasure locations and NPC loot
+-Added new NPC black phantoms
 
 -Changed the behavior and equipment of some NPC's
 
--Added new NPC black phantoms
+-Changed some enemy placement and added more enemies where maps were 'empty'
+
+-Changed some treasure locations and NPC loot
 
 -Changed the movement properties of the poison swamp in the Valley of Defilement
 
+-Modified some dev messages in the Nexus and Stonefang to aid players new to the mod
+
 -Added friendly scale miners, who are hiding throughout Boletaria....
 
-I'll spare you all the essay and simply say that there is so much under the hood of this mod. Explore new progression paths. Use the respec item to experiment with character stats and make the most out of the new tools at your disposal. Most importantly, journey through Boletaria with fresh eyes. Leave no stone unturned.
+-And so much more....
+
+Explore new progression paths. Use the respec item to experiment with character stats, make the most out of the new tools at your disposal, and adapt your loadout to conquer the greater challenges you face. Most importantly, journey through Boletaria with fresh eyes. Leave no stone unturned.
 
 ***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
 
@@ -104,7 +108,7 @@ The mod files are divided into the root path they should go in to make the insta
 
 -Go to the location of your game folder and paste it. You'll know you're pasting it in the right location if you get a prompt asking if you want to replace files of the same name. Once this is done, the mod has been installed, but you'll want to verify that.
 
--Boot the game and create a new character or use an existing modded character to go to the Nexus. There should be a developer message in front of the blacksmith telling you about upgrades.
+-Boot the game and create a new character or use an existing modded character to go to the Nexus. There should be a developer message in front of the blacksmith telling you about upgrades. *Note: Saves that pre-date Version 1.08 of this mod may not be compatible with the current version. Unequip all spells and miracles before loading those older saves.
 
 ----------------------------------
 
