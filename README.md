@@ -16,9 +16,9 @@ What's in Lost Soul Arts:
 
 -Grass and spice healing changed to percent regen to improve game balance and provide a more challenging experience
 
--Revised status effects to percent damage over time and adjusted durations for improved balance
+-Status effects changed to percent damage over time with adjusted durations for improved balance
 
--New spells and miracles with diverse utility replace stale/redundant ones
+-New spells and miracles replace stale/redundant ones for greater versatility
 
 -New physical spells empower a new class of strength-based casters
 
@@ -36,15 +36,17 @@ What's in Lost Soul Arts:
 
 -Added new NPC black phantoms
 
--Changed the behavior and equipment of some NPC's
+-Changed the behavior and equipment of some NPC's, including an overhaul to the Old Monk NPC boss
 
--Changed some enemy placement and added more enemies where maps were 'empty'
+-Changed some enemy placement and added more enemies in places where maps were originally 'empty'
 
 -Changed some treasure locations and NPC loot
 
+-Reduced weight of ore and many consumables to 0
+
 -Changed the movement properties of the poison swamp in the Valley of Defilement
 
--Modified some dev messages in the Nexus and Stonefang to aid players new to the mod
+-Modified some dev messages in the Nexus and Stonefang to aid players new to the mod and/or to the game
 
 -Added friendly scale miners, who are hiding throughout Boletaria....
 
