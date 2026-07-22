@@ -20,6 +20,8 @@ What's in Lost Soul Arts:
 
 -New spells and miracles with diverse utility replace stale/redundant ones
 
+-New physical spells empower a new class of strength-based casters
+
 -Updated some vanilla spells for improved aesthetics and/or functionality
 
 -Most weapons rebalanced/revamped
