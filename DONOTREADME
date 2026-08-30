@@ -72,6 +72,1440 @@ Weapons
 -reduced Lava Bow strength requirement to 16
 
 -reduced Lava Bow dex requirement to 14
+
+-reduced all Dragon weapon physical base AR by ~59%, fire base AR by ~18%, and enabled Luck scaling
+
+-increased Great Club strength scaling; v1.05 increased base AR by 10, reduced stamina costs by 10%, increased kick stamina cost to 50, and enabled buffs
+
+-added 0.8%hp self-damage effect to Needle of Eternal Agony
+
+-increased Needle of Eternal Agony base physical AR to 66, increased dex scaling to 66, reduced magic AR to 0, and reduced magic stat requirement to 0
+
+-reduced all Secret Dagger variant base physical and magic AR to match corresponding pre-mod basic Dagger variants
+
+-increased all basic Dagger variant base physical and magic AR to match corresponding pre-mod Secret Dagger variants
+
+-added bleed effect to all Secret Dagger variants
+
+-added Tearing Secret Dagger variants to weapon roster
+
+-added Great Club upgrades to weapon roster
+
+-decreased Dozer Axe physical AR to 140
+
+-increased Dozer Axe fire AR to 70
+
+-added 180 strength scaling to Dozer Axe
+
+-added 120 faith scaling to Dozer Axe
+
+-increased Dozer Axe faith requirement to 24
+
+-decreased Northern Regalia base physAR and base magAR to 65, added 3 strength/dex/magic/faith scaling, and enabled Luck scaling
+
+-decreased Soulbrandt base physAR and base magic AR to 60, added 3 strength/dex/magic scaling, and enabled Luck scaling; v1.06 reduced base physAR and base magic AR to 50
+
+-decreased Demonbrandt base physAR and base magic AR to 60, added 3 strength/dex/faith scaling, enabled Luck scaling, and reduced anti-demon damage to 1.0; v1.06 reduced base physAR and base magic AR to 50
+
+-increased guardpoke stamina cost of rapiers to 25
+
+-increased guardpoke stamina cost of spears to 30
+
+-increased Broken Sword durability to 200
+
+-reduced all Fatal weapon throwrates to 0
+
+-added weak lifesteal effects to fatal weapons and Meat Cleaver HP drain visual effect
+
+-increased all Fatal weapon Dexterity scaling; 60 at +1, 80 at +2, 100 at +3, 115 at +4, and 133 at +5
+
+-reduced all upgraded Rune Sword variants base magic AR to 140 and increased magic and faith scaling equally to 10+10*upgradelevel
+
+-increased Blind base physical AR to 90
+
+-reduced Makoto base physical AR to 0 for all variants, increased base magic AR to 115, added 18 magic stat requirement, and increased magic scaling to 100+20*upgradelevel
+
+-reduced Pickaxe dexterity requirement to 6
+
+-reversed strength and dex scaling for all Pickaxe variants
+
+-added Simpleton's Catalyst, a wooden catalyst that has the Magical Nature special effect and 40 magic scaling
+
+-reversed strength and dexterity scaling for all Mercury weapons except Pickaxe and War Pick
+
+-changed Mercury War Pick scaling to a near-even split between strength and dexterity
+
+-increased Mercury Pickaxe strength scaling and reduced dexterity scaling
+
+-reduced Mailbreaker base AR for all variants
+
+-increased Mailbreaker crit throw rate from 0 to 10 for all variants
+
+-reversed dex scaling and strength scaling for all Mailbreaker variants except Mercury
+
+-increased scaling for all Shortsword variants except Dragon
+
+-increased fire base AR for all Dragon Shortsword variants
+
+-increased scaling for all Longsword variants except Dragon
+
+-increased fire base AR for all Dragon Longsword variants
+
+-increased scaling for all Bastard Sword variants except Dragon
+
+-increased fire base AR for all Dragon Bastard Sword variants
+
+-increased scaling for all Rapier variants
+
+-increased scaling for all Spiral Rapier variants
+
+-increased scaling for all Scimitar variants
+
+-increased scaling for all Falchion variants
+
+-increased scaling for all Shotel variants
+
+-increased scaling for all Battle Axe variants
+
+-reduced scaling for all War Scythe variants
+
+-reduced scaling for all Mirdan Hammer variants except Dragon
+
+-reduced fire base AR for all Dragon Mirdan Hammer variants
+
+-increased strength scaling of all Iron Knuckle variants except Dragon
+
+-increased physical and magic base AR for all Moon Iron Knuckle variants
+
+-increased strength and faith scaling for all Hands of God variants
+
+-increased dex scaling of all Penetrating Sword variants
+
+-increased scaling for all Parrying Dagger variants
+
+-reduced scaling for all Crescent Mail Breaker variants
+
+-added upgrades for Light Crossbow to +10
+
+-added upgrades for Heavy Crossbow to +10
+
+-added upgrades for Gargoyle Crossbow to +10
+
+-reduced dex req for Phosphorescent Pole from 16 to 10 and increased magic req from 12 to 16
+
+-increased Storm Ruler strength and dex scaling to 20
+
+-added Sanctified Talisman, a talisman that has a weak Sincere Prayer special effect (stackable with the ring), 110 faith scaling, and a faith req of 24
+
+-reduced Talisman of God scaling from 100 to 70
+
+-reduced Morion Blade base physical AR to 0, increased base magic AR to 150, reduced dex req to 8, increased faith req to 16, increased faith scaling to 115 (up to 180 upgraded), made upgradeable with Colorless Demon's Souls, added Hiltless self-damage effect, and added hp-conditional regen on hit to offset self-damage at low hp; v1.09 reduced the effect endurance and motion interval of self-damage and hp-conditional regen on hit so that it activates per enemy struck
+
+-added False Moonlight, a Large Sword of Moonlight replica with 100 physical AR that increases with upgrade, a strength req of 14, 150 durability, 6 unit weight, blunt damage, no ability to ignore shields, luck scaling, slightly above-standard stamina damage, and upgradeable with Colorless Demon's Souls; v1.03 enabled weapon buffs; v1.06 slightly increased base AR of lower upgrades of False Moonlight and increased base AR of max upgrade by 10
+
+-v1.03 all boss weapons now evolve from +0 weapons
+
+-v1.03 changed Insanity Catalyst maximum MP debuff from -50% to -30% to account for spices offering MP regen and make it a viable option again
+
+-v1.03 added shield chip to all Shotel variants
+
+-v1.03 increased base AR of all Fatal weapons
+
+-v1.03 increased main stat scaling of all Fatal weapons except Rapier and Estoc
+
+-v1.04 increased crit throw rate of Geri's Stiletto to 10, increased magic scaling, and reduced MP drain on hit; v1.09 further reduced MP drain on hit, such that it is 5+(weapon upgrade level)
+
+-v1.05 reduced base physical AR and increased strength scaling of all catalysts and talismans
+
+-v1.05 increased Wooden Catalyst and Simpleton's Catalyst durability to 50
+
+-v1.05 reduced strength scaling of Meat Cleaver to 110, increased dexterity scaling to 230, reduced base magic AR to 70, increased magic scaling to 110, removed faith scaling, reduced strength req to 22, increased dex req to 20, increased magic req to 16, and removed faith req
+
+-v1.05 increased the magic block of Club and Great Club to 40
+
+-v1.05 reduced strength req for all Guillotine Axe variants
+
+-v1.06 fixed all Dragon weapon infusions to start at +6
+
+-v1.09 enabled buffs for all Fatal weapons
+
+-v1.09 added a new arrow type, Barbed Arrow, which has 50 physical AR and inflicts bleed with a rate of 0.63%HP/sec for 60 seconds
+
+-v1.09 restored cut 'Rigid' bow upgrade paths for Short Bow, Long Bow, Compound Short Bow, and Compound Long Bow and reduced strength scaling to be comparable with the Sticky upgrade's dex scaling with slightly reduced range compared to the normal upgrade path
+
+-v1.09 made Club upgradeable with Colorless Souls and gave it a spell-boosting effect like Kris Blade that only boosts physical spells and reduces player fire defense
+
+-v1.09 added 1.1 anti-demon damage modifier to all Blessed weapons, Hands of God, Large Sword of Moonlight, and Istarelle
+
+-v1.09 added 0.95 anti-demon damage modifier to Soulbrandt
+
+-v1.09 added 1.05 anti-demon damage modifier to Demonbrandt
+
+-v1.09 added Darksteel weapon upgrade path for all standard-upgrade weapons, which is equivalent to Sharp or Crushing upgrades of each respective weapon with 10% higher base AR and reduces the user's HP by a small amount per hit with the weapon
+
+-v1.09 added Occult weapon upgrade path for most standard-upgrade weapons, which is a copy of Blessed weapons or Crescent weapons where elemental scaling has been shifted to faith, elemental scaling has been increased by 10%, and non-status auxilary effects have been changed to constant HP degeneration with HP recovery on hit
+
+-v1.09 added Brimstone weapon upgrade path for most strength-based standard-upgrade weapons, which is equivalent to the v1.08 Dragon upgrade path, but has an added poison effect and a debuff that reduces the user's poison resistance
+
+-v1.09 added cut-content dagger, naming it Peasant's Dagger, which has 55 base AR, an innate poison effect, and is infuseable as Sharp, Darksteel, Quality, Fatal, Mercury, Crescent, and Occult
+
+-v1.09 added cut-content axe, naming it Handaxe, which is slashing, has 80 base AR, and is infuseable as Crushing, Sharp, Darksteel, Quality, Tearing, Dragon, Brimstone, Moon, and Occult
+
+-v1.09 added cut-content spear, naming it Broadhead Spear, which is slashing, has 88 base AR, and is infuseable as Sharp, Darksteel, Quality, Tearing, Mercury, Moon, Crescent, and Occult
+
+-v1.09 added cut-content dagger, naming it Mambele, which is slashing, has 65 base AR, scales with dexterity, has innate bleed, and is upgradeable with Colorless Demon Souls
+
+-v1.09 made all physical weapon infusions start at +3
+
+-v1.09 buffed primary stat scaling of all Mercury weapons by 10%
+
+-v1.09 changed Dragon scaling from luck to 55 magic and 55 faith, doubling the physical base damage
+
+----------------------------------
+
+Attack modifiers
+
+-reduced all backstab modifiers by 10%, excluding fist weapons
+
+-increased stamina damage of left hand large shield bash to 300
+
+-reduced rapier rolling r1 modifiers
+
+-reduced 2h katana quick r2 modifier and increased stamina consumption to 85
+
+-increased 2h greatsword first and second r2 modifiers
+
+-reduced 2h dagger r2 modifier to 1.2
+
+-v1.03 increased 2h stamina attack modifiers for most weapon classes, excluding rapiers, shotel, polearms, and small shields
+
+-v1.03 increased base stamina attack of False Moonlight to account for blunt damage type
+
+-v1.03 removed flat stamina damage of shield attacks
+
+-v1.05 slightly reduced the attack modifiers for curved sword 1h and 2h push attacks
+
+-v1.09 increased stamina damage of kicks for ultra greatswords, greataxes, greathammers, fist weapons, and catalysts
+
+-v1.09 increased stamina damage of second 2h r1 of ultra greatswords
+
+----------------------------------
+
+Shields
+
+-reduced Dark Silver Shield fire resistance to 30%
+
+-removed Dark Silver Shield magical dullness effect
+
+-reduced Dark Silver Shield stability
+
+-reduced magic resistance to 10% for all non-dark 100% physical block shields except Tower shield, Dark Silver Shield, and Rune Shield
+
+-reduced fire resistance to 50% for all Spiked Shield variants
+
+-reduced repair cost to cap at 3 souls per durability point
+
+-reduced fire resistance of all Dark-upgrade shields by 30%
+
+-reduced Buckler stability increases on upgrade
+
+-increased Wooden Shield magic resistance to 90%
+
+-reduced Heater Shield, Kite Shield, and Knight Shield stability on normal and dark upgrades
+
+-reduced Soldier's Shield stability increases on upgrade
+
+-increased Slave's Shield magic resistance to 60%
+
+-reduced Steel Shield and Purple Flame Shield stability on normal and dark upgrades
+
+-increased Dark Soldier's Shield and Dark Buckler magic resistance by 2 points, plus an additional 2 points per upgrade
+
+-increased Leather Shield magic resistance from 30% to 40%
+
+-reduced Brushwood Shield stability
+
+-increased Rune Shield magic AR to 40
+
+-increased Rune Shield magic and faith scaling
+
+-increased Rune Sword faith requirement to 18
+
+-increased Rune Shield faith requirement to 18
+
+-increased strength scaling of all Tower Shield variants
+
+-increased strength scaling of all Steel Shield variants
+
+-increased base physical AR of all Brushwood Shield variants
+
+-increased strength scaling of all Brushwood Shield variants
+
+-increased strength scaling of all Purple Flame Shield variants
+
+-v1.03 reduced status effect reduction on all shields
+
+-v1.03 further reduced stability for all standard-upgrade 100% physical-blocking shields
+
+-v1.03 reduced Tower Shield stability by 10
+
+----------------------------------
+
+Armor
+
+-adjusted armor weights
+
+-adjusted armor defs
+
+-adjusted armor resistances
+
+-adjusted armor stamina penalties
+
+-adjusted armor repair costs to 3 per durability point
+
+-reduced armor blunt, slash, and thrust modifiers by 40%
+
+-changed Saint armor set defs to match corresponding Venerable set pieces
+
+-changed Saint armor set durability to match corresponding Venerable set pieces
+
+-standardized heavy armor durability to 500
+
+-standardized medium cloth and leather armor durability to 300
+
+-standardized light armor durability to 150
+
+-v1.05 reduced Gloom set status resistances by ~30%
+
+----------------------------------
+
+Rings
+
+-reduced all ring weights to 0
+
+-v1.09 added 130% max MP effect to Ring of Magical Nature and Ring of Devout Prayer
+
+----------------------------------
+
+Stealth
+
+-visibility distance increased for Graverobber Ring and Thief's Ring
+
+-audibility distance decreased for Graverobber Ring and Thief's Ring
+
+-v1.08 increased sound reduction of Thief's Ring to 90% and visibility range reduction to 40%
+
+-v1.08 increased sound reduction of Graverobber Ring to 90% and visibility range reduction to 45%
+
+-v1.08 increased sound reduction of Cloak to 100%
+
+----------------------------------
+
+Hypermode
+
+-reduced Clever Rat Ring effect to 30%
+
+-reduced Morion Blade effect to 30%
+
+----------------------------------
+
+Spells
+
+-reduced Curse Weapon buff to 30% and changed HP degen to 4HP/s; v1.03 reduced number of spell slots to 2 and increased cost to 120mp
+
+-increased Water Veil fire damage reduction to 80%
+
+-changed Anti-Magic Field to Warding-like body buff with 85% magic damage reduction, MP cost of 40, and changed slot size to 1
+
+-changed Antidote miracle to Flame Weapon buff, which scales with faith, is cast with talismans, has 130 base damage, costs 50000 souls from Follower of God NPC shop OR 30000 souls from Saint Urbain NPC shop, deals self-damage at a rate of 0.2%MaxHP per 0.5sec, and costs 60MP to cast
+
+-changed Resurrection miracle to Cloud of Flies miracle; creates fly explosion with 220 physical AR, inflicts flies status effect on hit that deals 0.7%hp/sec for 20sec, costs 50 mp, and costs the Dirty Colossus Soul to obtain; v1.05 increased physical AR to 270, increased flies status effect to 1%hp/sec, and increased cost to 60MP
+
+-changed Homing Soul Arrow bullet effect to Maneater Homing Soul Arrow, removed floating stage for faster cast, reduced MP cost to 30, reduced magicAR to 75, and reduced number of bullets to spray of 3 with improved homing ability; v1.03 now costs Maneater Soul to obtain
+
+-changed Banish miracle to Penitent Nails miracle; knocks enemies in the vicinity down to the ground, ignoring guard and inflicting strong bleed; has 170 base physical AR and costs 21 MP; the caster pays the cost of 20% of their HP, but regains 10% per living target hit; v1.05 decreased physical AR to 150
+
+-changed Recover soul cost to Maiden Astraea's Soul and changed hp recovery from 800 to 100%; v1.03 changed this back to flat recovery and increased value to 1000; v1.05 increased stamina cost to 200; v1.09 changed Recover so that it heals everyone within an 8m radius of the caster and set the flat heal amount for the caster to 1200 HP
+
+-changed Firespray from continuous cast to single cast spell; now shoots 5 orbs of fire in a fan in front of the caster, increased mp cost to 18, and added light stagger
+
+-changed Poison Cloud to Torpefy, an ignite-like spell with 100 physical AR that causes buildup of strong bleed and chips through shields; v1.03 increased cost to 24mp
+
+-changed Firestorm effect to lava eruptions around the caster, changed knockdown to medium stagger, and reduced fire AR to 150; v1.05 increased stamina cost to 200
+
+-changed Protection to Rock Throw, a spell that conjures and hurls a boulder in an arc in front of the caster; has 238 physical AR on direct hit and 88 physical AR on splash damage, costs 20mp, and is obtained by trading in the Soul of a Miner with either Freke or Freke's Apprentice; v1.05 decreased the AR of a direct hit to 198, decreased the splash AR to 44, increased the mp cost to 35, and increased the stamina cost to 120
+
+-changed Acid Cloud to Sludge Toss, a spell that lobs sludge in an arc in front of the caster, which lingers on surfaces for several seconds; has 66 physical AR, costs 24mp, degrades equipment by 30 durability, and deals 90 buildup of poison that deals 0.6%hp/sec; v1.03 increased cost to 35mp; v1.05 reduced durability degradation to 10
+
+-reduced slot length of Second Chance to 1; v1.05 increased stamina cost to 200
+
+-changed Death Cloud to Wind Slice, a spell that creates a lacerating blade of wind that pierces enemies; has 150 magic AR, costs 18mp, and costs Allant's soul to obtain; v1.04 lifted casting angle by 2 degrees, slightly reduced velocity, increased bullet size to match visual effect, and enabled bullet to penetrate map
+
+-reduced slot length of Soul Thirst to 2, reduced MP cost to 100, and added 15% attack buff and 30% defense debuff; v1.04 increased effect duration to 45 seconds; v1.05 reduced slot length to 1, increased attack buff to 20%, increased duration to 60 seconds, restricted buff to spells and miracles only, and fixed a bug (details at the bottom)
+
+-increased Regeneration regen to 1.5%HP/s; v1.08 increased Regeneration duration from 100 seconds to 120 seconds
+
+-changed Demon's Prank to Will-o-wisp, a spell that creates a slow-moving mid-range homing projectile that explodes on contact or after a set duration, costs 80mp, has 230 base Fire AR, takes up 2 slots, and is obtained by trading in the Tardigrade's Soul with Freke; v1.04 increased base Fire AR and stamina attack to 300
+
+-changed Hidden Soul to Emit Force, a miracle that sends out a small homing orb that explodes on contact or after a set duration, costs 40mp, has 256 physical AR, takes up 1 slot, and is obtained by trading in the Brain of a Mindflayer with either the Disciple of God or Saint Urbain; v1.03 reduced physical AR to 0 and increased magic AR to 220; v1.05 increased magic AR to 250
+
+-v1.05 increased God's Wrath magic AR to 400
+
+-v1.09 changed Enchant Weapon to Greater Lancet, a physical spell where the caster throws a large spear, which has 160 physical AR, takes up 1 slot, costs 20mp 50 stamina to cast, pierces enemies (like Soul Ray), and is obtained by trading the Phalanx Demon Soul
+
+-v1.09 changed Relief to Soul Spear, a magic spell where the caster throws a large soul spear, which has 200 magic AR, takes up 2 slots, costs 40mp and 50 stamina to cast, and is obtained by trading the Tower Knight Demon Soul with Yuria after Maiden Astraea is defeated
+
+-v1.09 replaced Regeneration with Blessed Weapon, a miracle that enchants the right hand weapon at 110 base magic AR, costs 50mp to cast, takes up 1 miracle slot, and applies 0.5%HP+1HP/0.6sec regen for 60 seconds
+
+-v1.09 replaced Cure with Regeneration verbatim, only it still requires Leechmonger Soul
+
+-v1.09 improved bullet vfx used for Sludge Toss (throw) so that it now shows its travel path from start to finish
+
+----------------------------------
+
+Status
+
+-changed status special effects to HP%
+
+-some status special effects buffered with minor flat HP effect
+
+-reduced poison duration to 90s
+
+-reduced plague stamina penalty to -5
+
+-reduced plague duration to 180s
+
+-v1.03 increased all plague healing penalties to 60%
+
+-similarly adjusted corresponding environmental status
+
+-similarly adjusted corresponding status inflicted by mobs
+
+-increased bleed tier for all Broadsword variants by 1
+
+-increased bleed tier for all Morning Star variants by 1
+
+-increased bleed tier for all Flamberge variants by 2
+
+-decreased bleed tier for all Spiral Rapier variants by 1
+
+-decreased bleed tier for all Uchigatana variants by 1
+
+-decreased bleed tier for all Hiltless variants by 1
+
+-decreased bleed tier for all War Scythe variants by 1
+
+-decreased bleed tier for all Fatal weapons with bleed effect by 1
+
+-decreased bleed tier for all Mercury weapons with bleed effect by 1
+
+-decreased bleed tier for all Tearing Uchigatana variants by 1
+
+-decreased bleed tier for all Tearing War Scythe variants by 1
+
+-decreased bleed tier for all Tearing Kilij variants by 1
+
+-increased bleed tier for all Tearing Scimitar variants by 1
+
+-increased bleed tier for all Tearing War Pick variants by 2
+
+-increased bleed tier for all Tearing Pickaxe variants by 2
+
+-added new bleed effect for Great Club (Bleed_10 with 40 buildup); v1.09 increased bleed buildup to 50
+
+-added bleed effect to Needle of Eternal Agony with 0.2% dps
+
+-added new poison effect to Needle of Eternal Agony with 90s duration, 70% healing cut, (0.3% - 1) dps, and 3 stamina regen penalty
+
+-changed properties of 5-2 poison swamp so that the player character is not restricted to the "overburdened" state (no roll) and instead has their maximum equip load reduced to 30%, with new icon indicating when the effect is active
+
+-v1.08 increased flat bleed damage values by 1 for Bleed 9, Bleed 10, Great Club bleed, Penitent Nails bleed, Torpefy bleed, Makoto+3 bleed, Makoto+4 bleed, and Makoto+5 bleed
+
+-v1.08 increased bleed HP% for all types by ~30-35%
+
+-v1.08 increased flat poison damage values by 1 for Poison 5
+
+-v1.08 increased poison HP% for all types by ~30-35%
+
+-v1.08 increased plague HP% for all types by ~30-35%
+
+-v1.09 increased bleed buildup for Bleeding_10 to 40 (affects Tearing Flamberge+5)
+
+-v1.09 increased poison buildup for Rotten Arrows to 40
+
+-v1.09 added Bleeding 4 to Kris Blade
+
+-v1.09 increased bleed tier for Tearing Flamberge to Bleed 11 at 0.94%hp/s
+
+-v1.09 increased bleed tier for all Scimitar variants
+
+----------------------------------
+
+Regen
+
+-reduced blessed weapon regen
+
+-reduced Adjudicator Shield regen
+
+-reduced Regenerator Ring regen
+
+-reduced motion intervals for crescent weapon MP regen
+
+-reduced motion intervals for Phosphorescent Pole MP regen
+
+-increased Meat Cleaver HP drain effect to 2.5%
+
+-created new HP drain speffects for fatal weapons; weak effect to daggers and rapiers, stronger effect to spears; v1.09 added third effect tier for Fatal weapon regen, increased regen effect percentages, added flat hp regen for buffer, and reduced motion interval and effect duration
+
+-reduced MP drain effect on Geri's Stiletto; v1.05 reduced the effect endurance and motion interval for MP drain
+
+-v1.09 reduced duration and motion interval of Fatal hp recovery to 0 so that it activates for every enemy hit
+
+-v1.09 reduced duration and motion interval of Meat Cleaver hp recovery to 0 so that it activates for every enemy hit
+
+----------------------------------
+
+Healing consumables
+
+-changed Crescent Moon Grass duration to 4 seconds, motion interval to 0.2, healing to 1%HP+7HP, and healing rate to 80%
+
+-changed Half Moon Grass duration to 8 seconds, motion interval to 0.3, healing to 2%HP+6HP, and healing rate to 60%
+
+-changed Late Moon Grass duration to 16 seconds, motion interval to 0.4, healing to 3%HP, and healing rate to 40%
+
+-changed Full Moon Grass duration to 30 seconds, motion interval to 0.5, healing to 5%HP, and healing rate to 20%
+
+-changed New Moon Grass duration to 80 seconds, motion interval to 0.8, healing to 10%HP, and healing rate to 10%
+
+-changed Spice MP recovery from flat to %MP regen and added MP regeneration aura and status icon for active spice effects
+
+-v1.08 changed Fresh Spice MP regen from 5% MP per tic to 4%MP+3MP per tic to buffer for lower level characters
+
+-v1.08 increased rate of Old Spice MP regen from 4% MP per second for 25 seconds to 5%MP per second for 20 seconds
+
+-reduced Dark Moon Grass healing effect to 10% HP, maintaining instantaneous effect; v1.03 further reduced healing to 5% HP
+
+-added regeneration aura and status icon for active grass effects
+
+-v1.08 gave each grass and spice their own unique icon to differentiate them from passive regen effects and from each other
+
+-v1.09 increased drop rates of grass from most enemies
+
+----------------------------------
+
+Non-healing consumables
+
+-reduced weight of all throwables to 0.1
+
+-reduced Holy Arrow magic AR to 80
+
+-reduced White Arrow physical AR to 0 and increased magic AR to 100
+
+-increased Heavy Arrow physical AR to 115
+
+-increased Heavy Bolt physical AR to 80
+
+-decreased Black Bolt physical AR to 0 and increased magic AR to 40
+
+-reduced consumable weapon buff weights to 0.1
+
+-increased drop rate for Colorless Demon Soul from Primeval Demon to 100%
+
+-increased number of White Arrows that Sparkly the Crow gives in trades to 30
+
+-increased number of Colorless Demon Souls that Sparkly the Crow gives in trades to 3
+
+-increased velocity of Throwing Knives to 35
+
+-increased velocity of Kunai to 35
+
+-increased velocity of Secret Throwing Dagger to 30
+
+-added Soul of a Tardigrade item
+
+-added Brain of a Mindflayer item to Mindflayer drop pools
+
+-v1.03 reduced weight of Soul Remains and Augite of Guidance to 0
+
+-v1.03 reduced weight of Ed's Grindstone to 0.1
+
+-v1.03 increased total obtainable Colorless Demon Souls to 20 per playthrough, not including purchasable ones
+
+-v1.09 increased value of Unknown Soldier's soul from 200 to 250
+
+-v1.09 increased value of Unknown Hero's soul from 400 to 500
+
+-v1.09 increased value of Renowned Soldier's soul from 800 to 1000
+
+-v1.09 increased value of Renowned Hero's soul from 1000 to 2000
+
+-v1.09 increased value of Fabled Soldier's soul from 2000 to 4000
+
+-v1.09 increased value of Fabled Hero's soul from 4000 to 8000
+
+-v1.09 increased value of Legendary Soldier's soul from 8000 to 10000
+
+-v1.09 increased value of Legendary Hero's soul from 10000 to 20000
+
+-v1.09 increased value of Small Flame-scale Demon Soul to 15000
+
+-v1.09 increased value of Dragon God Demon Soul to 48000
+
+-v1.09 increased value of Yellow Demon Soul to 40000
+
+----------------------------------
+
+Ore
+
+-reduced all ore weights to 0
+
+-increased drop rates and quantities for ores from crystal lizards
+
+-increased drop rates for ores from various mobs
+
+-v1.06 slightly increased drop rates for Dragonstone Chunks and Pures
+
+-v1.06 slightly reduced drop rates for various ores that were dropping too frequently
+
+-v1.06 slightly reduced ore costs for most weapon upgrades
+
+----------------------------------
+
+Miscellaneous items
+
+-reduced brass telescope weight to 0
+
+-added Voidstone, an item that reduces the player character's soul level by one
+
+----------------------------------
+
+NPC's/Enemies
+
+-added ring of magical dullness to Garl's equipment
+
+-added ring of flame resistance to Garl's equipment
+
+-added ring of great strength to Garl's equipment
+
+-added ring of the eternal warrior to Garl's equipment
+
+-removed Garl's immunity to poison and bleed
+
+-changed upgrade level of Garl's Bramd from +5 to +0
+
+-changed White Bow NPC black phantom secondary weapon to Large Sword of Moonlight, swapped wooden catalyst out for talisman of god, swapped Firestorm for Penitent Nails Miracle, changed armor to Mirdan set, equipped Ring of Great Strength, and increased faith stat to 24; v1.08 reduced White Bow upgrade to +0 and removed the helmet
+
+-changed Scraping Spear NPC black phantom weapon to Fatal Winged Spear; v1.08 reduced Fatal Winged Spear to +1
+
+-changed 1-4 Penetrator NPC black phantom weapon to Crescent Flamberge+5, changed AI to match Scirvir black phantom, equipped Talisman of Beasts, equipped Homing Soul Arrow, Firestorm, Torpefy, Recovery, and Regenerate, changed armor to Monk's Head Wrap with Saint's Robes, increased magic to 24, increased faith to 24, increased vit to 30, increased intelligence to 99, and added NPC MP regen special effect; v1.07.1 changed Homing Soul Arrow to Wind Slice and reduced Crescent Flamberge upgrade to +1
+
+-changed Female Barbarian NPC black phantom equipment to Dozer Axe, full Chain armor set, equipped Ring of Great Strength, increased strength to 30, and increased faith to 24; v1.06 changed ore drop to Dragonstone Chunks
+
+-replaced Stone of Ephemeral Eyes Follower of God NPC gift with Sanctified Talisman
+
+-removed Allant's plague immunity
+
+-increased Penetrator's magic defense to 132 and decreased fire defense to 97
+
+-increased Ostrava's faith to 18
+
+-increased black phantom Ostrava's faith to 18
+
+-increased 1-4 Tower Shield NPC black phantom vit to 24
+
+-increased 1-4 White Bow NPC vit to 20
+
+-increased Old Monk NPC int to 99, changed weapon loadout to just Phosphorescent Pole+5 and Insanity Catalyst, added Cling Ring and Fragrant Ring, changed NPC AI to Scirvir's, disabled navmesh pathing, added NPC MP regen special effect, and changed equipped spells to Sludge Toss, Torpefy, and Homing Soul Arrow; v1.05 reduced Monk-NPC-exclusive Magic and Fire defense multiplier from 2.5 to 1, which helps offset the Cling Ring HP buff the boss received
+
+-changed black phantom Satsuki's item drop from Hiltless to Makoto, switched his primary and secondary right hand weapons so that he uses his Makoto+5, offset the hp degen effect with equal regen, increased magic stat to 30, and changed stock of 10 New Moon Grass to 6 Crescent Moon Grass
+
+-changed 4-2 dual katanas black phantom NPC weapons to Makoto, offset the hp degen effect with equal regen, and increased magic stat to 18
+
+-changed Old King Doran's stock of 99 New Moon Grass to 2 Half Moon Grass
+
+-changed Stockpile Thomas's stock of 99 Full Moon Grass to 10 Half Moon Grass
+
+-changed Satsuki's stock of 10 New Moon Grass to 6 Crescent Moon Grass
+
+-v1.05 added male NPC black phantom to 1-1 with Morion Blade, Chain armor set, Clever Rat Ring, and Dull Rat Ring, who drops a Stone of Ephemeral Eyes and Black Eye Stone
+
+-changed 3-1 NPC black phantom equipment to Needle of Eternal Agony, Gargoyle's Crossbow, Black Bolts, and the Rogue armor set; v1.07 reduced NG+ modifiers and switched to Wooden Bolts
+
+-changed Acolyte of God NPC equipment to False Moonlight+5 and Mirdan armor set, increased his strength to 14, increased his vitality to 27, increased his endurance to 27, and added False Moonlight as a drop; v1.05 equipped Mirdan Helmet
+
+-added Sanctified Talisman to Worshipper of God NPC equipment and drop, increased strength to 14, increased dexterity to 12, and changed right hand weapon to Blessed Mirdan Hammer+5
+
+-changed Patches equipment to Fatal Short Spear+5 and increased his vitality to 24; v1.08 reduced upgrade of Fatal Short Spear to +1
+
+-changed Biorr's crossbow bolts to Heavy Bolts and crossbow to Heavy Crossbow+10
+
+-changed Urbain's talisman to Sanctified Talisman
+
+-changed Freke's equipment to Baby's Nail+5 and Geri's Stiletto+5
+
+-changed Disciple of God's weapon to Dragon Morning Star+5 and increased luck to 30
+
+-changed Scirvir NPC black phantom weapons to Moon Short Sword+5 and Geri's Stiletto+5
+
+-added new Disciple of God NPC black phantom in 5-2 with Dragon Morning Star+5, Sanctified Talisman, Penitent Nails, Cloud of Flies, Regeneration, and Anti-Magic Barrier
+
+-added new Yurt NPC black phantom in 3-2 with dual Mercury Shotel+5
+
+-added new NPC black phantom in 4-2 with Tearing Pickaxe+5, Simpleton's Catalyst, Will-o-wisp, and Rock Throw; v1.03 reduced int to 24
+
+-added new NPC black phantom in 2-2 with dual Hands of God+5; v1.08 reduced Hands of God to +0
+
+-added new NPC black phantom in 4-1 with Baby's Nail+5, Silver Catalyst, Wind Slice, and Sludge Toss; v1.07 reduced NG+ modifiers; v1.08 changed Wind Slice and Sludge Toss to Soul Ray and Firespray
+
+-v1.05 added new defense buff for NPC's to help guard against accidental aggro or one-shotting, along with a debuff to counteract it when their HP falls below 99%
+
+-v1.05 decreased the drop rate for Uchigatana from the 4-1 and 4-2 black skeletons
+
+-v1.06 removed character tendency and world tendency shifts from killing new black phantom NPC's
+
+-v1.06 added character tendency shift and increased world tendency shift from killing Old Monk NPC boss
+
+-v1.06 slightly reduced Old King Doran's physical and fire defense modifiers
+
+-v1.07 increased souls gained from defeating some of the new black phantom NPC's
+
+-v1.08 changed 5-2 Meat Cleaver black phantom NPC stats to 22 strength, 20 dexterity, 16 magic, and 7 faith
+
+-v1.08 moved 4-2 Miner black phantom NPC to the 5-2 swamp
+
+-v1.08 moved the 1-4 Mage black phantom NPC to 4-2
+
+-v1.08 added a new Tower Shield black phantom NPC to 3-2, who aggressively uses Tower Shield as a weapon
+
+-v1.08 replaced the former 1-4 Mage black phantom NPC with another to resemble original Penetrator Sword NPC and gave him a more aggressive AI
+
+-v1.08 increased white world tendency shift for killing "named" NPC black phantoms and Primeval Demons to +200
+
+-v1.09 added Soldier's, Royal, and Widow's Lotuses to hidden Scale Miners loot table
+
+-v1.09 added Darksteel ores to Boletarian Knight loot table
+
+-v1.09 added Brimstone ores to Lava Gecko, Hot Iron Scale Miner, and Flying Tardigrade loot tables
+
+-v1.09 added Shadestone ores to Depraved and Large Depraved loot tables
+
+----------------------------------
+
+Shops
+
+-added Monk's Head Wrap in Former Royal's Wife NPC shop and set cost to 100000 souls
+
+-removed purchase limit and event flag for White Arrows in Patches the Hyena NPC shop
+
+-removed purchase limit for Dark Moon Grass in Patches the Hyena NPC shop; v1.06 this item was not showing up in v1.05, which has now been fixed
+
+-changed Fresh Spice to Old Spice in Patches the Hyena NPC shop
+
+-changed Half Moon Grass to Augite of Guidance from Patches the Hyena NPC shop
+
+-added Chunk of Dragonstone in Filthy Man NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Dragonstone in Filthy Man NPC shop and set cost to 50000 souls
+
+-added Chunk of Moonlightstone in Once-Royal Mistress NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Moonlightstone in Once-Royal Mistress NPC shop and set cost to 50000 souls
+
+-added Chunk of Greystone in Filthy Man NPC shop and set cost to 10000 souls
+
+-V1.06 added Pure Greystone in Filthy Man NPC shop and set cost to 50000 souls
+
+-added Chunk of Clearstone in Filthy Man NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Clearstone in Filthy Man NPC shop and set cost to 50000 souls
+
+-added Chunk of Spiderstone in Filthy Man NPC shop and set cost to 10000 souls
+
+-v1.06 added Shard of Spiderstone in Filthy Man NPC shop and set cost to 3000 souls
+
+-v1.06 added Pure Spiderstone in Filthy Man NPC shop and set cost to 50000 souls
+
+-added Chunk of Faintstone in Filthy Woman NPC shop and set cost to 20000 souls; v1.06 reduced price to 15000 souls
+
+-v1.06 added Pure Faintstone in Filthy Woman NPC shop and set cost to 60000 souls
+
+-added Chunk of Darkmoonstone in Bilge NPC shop and set cost to 15000 souls
+
+-v1.06 added Pure Darkmoonstone in Bilge NPC shop and set cost to 60000 souls
+
+-added Chunk of Cloudstone in Bilge NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Cloudstone in Bilge NPC shop and set cost to 50000 souls
+
+-added Shard of Bladestone in Bilge NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
+
+-added Chunk of Bladestone in Bilge NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Bladestone in Bilge NPC shop and set cost to 50000 souls
+
+-added Shard of Mercurystone in Once-Royal Mistress NPC shop and set cost to 3000 souls
+
+-added Chunk of Mercurystone in Once-Royal Mistress NPC shop and set cost to 15000 souls; v1.06 reduced price to 10000 souls
+
+-v1.06 added Pure Mercurystone in Once-Royal Mistress NPC shop and set cost to 50000 souls
+
+-added Shard of Suckerstone in Filthy Woman NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
+
+-added Chunk of Suckerstone in Filthy Woman NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Suckerstone in Filthy Woman NPC shop and set cost to 50000 souls
+
+-added Shard of Marrowstone in Filthy Woman NPC shop and set cost to 2000 souls; v1.06 increased price to 3000 souls
+
+-added Chunk of Marrowstone in Filthy Woman NPC shop and set cost to 10000 souls
+
+-v1.06 added Pure Marrowstone in Filthy Woman NPC shop and set cost to 50000 souls
+
+-added Shard of Meltstone in Filthy Man NPC shop and set cost to 3000 souls
+
+-added Voidstone in Blacksmith Boldwin NPC shop and set cost to 150 souls
+
+-added Colorless Demon Soul in Patches NPC shop and set cost to 30000 souls; v1.06 this item was not showing up in v1.05, which has now been fixed
+
+-v1.06 added Shard of Spiderstone in Filthy Man NPC shop and set cost to 3000 souls
+
+-v1.07 improved organization of expanded shop inventories
+
+-v1.09 added Bastard Sword to Dregling NPC shop and set cost to 4000 souls
+
+-v1.09 added Greatsword to Dregling NPC shop and set cost to 30000 souls
+
+-v1.09 added Greataxe to Dregling NPC shop and set cost to 30000 souls
+
+-v1.09 added Winged Spear to Dregling NPC shop and set cost to 5000 souls
+
+-v1.09 added Kilij to Blige NPC shop and set cost to 3000 souls
+
+-v1.09 added Compound Shortbow to Blige NPC shop and set cost to 2500 souls
+
+-v1.09 added Compound Longbow to Blige NPC shop and set cost to 4000 souls
+
+-v1.09 added Uchigatana to Blige NPC shop and set cost to 8000 souls
+
+-v1.09 added War Scythe to Blige NPC shop and set cost to 10000 souls
+
+-v1.09 added Estoc to Once-Royal Mistress NPC shop and set cost to 2000 souls
+
+-v1.09 added Mirdan Hammer to Filthy Woman NPC shop and set cost to 10000 souls
+
+-v1.09 reduced the cost of Crescent Moon Grass from Boldwin's shop to 100 souls
+
+-v1.09 reduced the cost of Fresh Spice from Boldwin's shop to 250 souls
+
+-v1.09 reduced the cost of Half Moon Grass from the Dregling NPC shop to 250 souls
+
+-v1.09 reduced the cost of Crescent Moon Grass from Filthy Man NPC shop to 100 souls
+
+-v1.09 added Half Moon Grass to Filthy Man NPC shop for 250 souls
+
+-v1.09 added Crescent Moon grass to Patches NPC shop for 100 souls
+
+-v1.09 added Half Moon Grass to Patches NPC shop for 250 souls
+
+-v1.09 reduced cost of Late Moon Grass in Patches NPC shop to 600 souls
+
+-v1.09 reduced cost of New Moon Grass in Patches NPC shop to 2000 souls
+
+-v1.09 reduced cost of Dark Moon Grass in Patches NPC shop to 5000 souls
+
+-v1.09 added Barbed Arrow to the Filthy Woman NPC shop in 5-2 for 300 souls
+
+-v1.09 added Broadhead Spear to Blige's NPC shop
+
+-v1.09 added Handaxe to Dregling NPC shop
+
+-v1.09 added Darksteel ores to Dregling NPC shop
+
+-v1.09 added Brimstone ores to Dirty Man NPC shop
+
+-v1.09 added Shadestone ores to Dirty Woman NPC shop
+
+
+----------------------------------
+
+Cheat Gear
+
+-all game-breaking cut-content weapons nerfed
+
+-changed Garl's armor to match regular Dark Silver armor set
+
+-changed Garl's shield to match Dark Silver Shield
+
+----------------------------------
+
+Movesets
+
+-changed greatsword push attacks to kick
+
+-changed greataxe/greathammer push attacks to kick
+
+-changed polearm 1h push attack to kick
+
+-changed polearm 1h first r1 attack to spear thrust
+
+-changed spear 1h push attack to kick (game references polearm animation for push attack)
+
+-changed fist weapon headbutt to kick
+
+-changed Mail Breaker type and moveset to dagger
+
+-changed Needle of Eternal Agony moveset and properties to act like a dagger
+
+-changed fist weapon R2 attack animation to right hook
+
+-changed ultra greatsword 1h R2, first 2h R1, 2h running R1, and 1h rolling R1 knockdown to heavy stagger
+
+-changed ultra greatsword second 2h R2 from heavy stagger to knockdown
+
+-increased stamina damage of greatsword second 2h R1 and third 2h R1
+
+-increased attack multipliers of ultra greatsword third 2h R1 and second 2h R2
+
+-changed fist weapon R2 stagger from moderate to heavy
+
+-changed Hands of God R2 stagger from knockdown to heavy
+
+-changed Geri's Stiletto type and moveset to dagger
+
+-changed catalyst/talisman strikes to kick
+
+-slightly increased animation recovery for katana L1 attack
+
+-slightly reduced animation recovery for polearm first 1h R1 attack
+
+-reduced katana L1 damage level from moderate to light stagger
+
+-reduced katana 2h r2 damage level from heavy to light stagger and changed animation to quickdraw
+
+-increased all kick stamina cost to 50
+
+-changed 2h dagger r2 to foot sweep that ignores shields
+
+-v1.03 reduced attack multiplier of rapier class riposte to 3.2
+
+-v1.03 increased attack multiplier of dagger class riposte to 3.7
+
+-v1.03 further increased vulnerability windows after guardbreak
+
+-v1.03 reduced attack cooldown between 2h ultra greatsword 2nd r1 and 3rd r1 attacks
+
+-v1.03 increased hyperarmor window for miracles cast using Sanctified Talisman and/or Ring of Sincere Prayer
+
+-v1.03 slightly extended parry window of offhand daggers
+
+-v1.03 slightly reduced recovery time after casting miracles
+
+-v1.04 increased hyperarmor window for Soulsucker and Will-o-wisp casting animation
+
+-v1.05 changed rapier moveset as follows: 1h and 2h running r1 animations now same as respective dagger running r1 animations and reduced stagger to level 2, first 2h r1 animation now same as 2h dagger first r1 animation, and reduced attack modifiers of 1h and 2h rolling r1 attacks to 0.8 and 0.9 respectively
+
+-v1.05 added hyperarmor to the 2nd 1h r2, 1st 2h r1, and 3rd 2h r1 attacks for ultra greatswords
+
+-v1.05 removed parryable windows from ultra greatsword 2h r1 attack string
+
+-v1.05 added debris visual effect for ultra greatsword 2nd 2h r2 attack, increased the hitbox range to 2.5, and lengthened the hitbox active time slightly
+
+-v1.05 reduced the cooldown between the ultra greatsword 1st 2h r2 attack and any follow-up attack
+
+-v1.09 changed the first curved sword 2h r2 attack from a downward slash to an upward slash using a cut content animation, reduced its stamina cost, and increased its stamina damage multiplier
+
+-v1.09 reduced the cooldown between the ultra greatsword 1st 2h r1 attack and any follow-up attack and also increased the hyperarmor window
+
+-v1.09 reduced the cooldown between the ultra greatsword 2nd 2h r1 attack and any follow-up attack
+
+----------------------------------
+
+Text
+
+-changed name of "storied" souls to "fabled" souls
+
+-changed description of White Bow to describe new scaling
+
+-changed description of White Arrows to describe new scaling
+
+-changed description of Dragonstone to hint at new scaling
+
+-changed description of Cloudstone to note reduction in fire block stat
+
+-changed description of Great Club to describe new bleed effect and how to upgrade it
+
+-changed description of all Grasses to describe healing changes
+
+-changed description of Spices to describe new effect
+
+-changed name and description of Anti-Magic Field to Anti-Magic Barrier to describe new effects with lore context
+
+-added description of Flame Weapon
+
+-changed description of Dozer Axe to describe new effects with lore context
+
+-changed description of Marrowstone to describe new lifesteal effect
+
+-changed description of Northern Regalia to describe new scaling
+
+-changed description of Soulbrandt to describe new scaling
+
+-changed description of Demonbrandt to describe new scaling
+
+-changed name and description of Resurrection to Cloud of Flies to describe new effects with lore context
+
+-changed name and description of Banish to Penitent Nails to describe new effects with lore context
+
+-changed description of Homing Soul Arrow to describe new effects with lore context
+
+-changed description of Recover to fill lore context for new boss soul cost
+
+-changed description of Firestorm to describe new effect with lore context
+
+-changed description of Firespray to describe new effect with lore context
+
+-changed name of Poison Cloud to Torpefy and describe new effect with lore context
+
+-changed description of Needle of Eternal Agony to describe new effects with lore context
+
+-changed description of Dark Silver Shield to imply reduced fire resistance
+
+-changed description of Lava Bow to imply increased magic scaling
+
+-added description of Voidstone to describe effect
+
+-changed name and description of Acid Cloud to Sludge Toss to describe new effect with lore context
+
+-changed name and description of Death Cloud to Wind Slice to describe new effect with lore context
+
+-changed description of Soul Thirst to describe new effect; v1.05 modified description to define the revised effects of the spell
+
+-added description of Simpleton's Catalyst
+
+-changed description of Mercurystone to describe scaling changes
+
+-changed description of Mailbreaker to describe scaling and weapon class changes
+
+-corrected typo in vanilla description of basic Dagger
+
+-changed description of Secret Dagger to describe new bleed effect
+
+-changed description of Broadsword to describe bleed effect
+
+-changed description of Shotel to describe bleed effect
+
+-changed description of Hiltless to describe bleed effect
+
+-changed description of Blind to describe bleed effect
+
+-changed description of Large Sword of Searching to imply bleed effect
+
+-changed description of War Scythe to describe bleed effect
+
+-changed description of Geri's Stiletto to clarify it is now a dagger
+
+-changed description of Morion Blade to describe new self-damage effect and scaling with lore context
+
+-changed description of Black Bolt to describe new magic damage type with lore context
+
+-changed description of Buckler to remove misleading comment suggesting the shield has more parry frames than other shields
+
+-added description of Sanctified Talisman to describe it with lore context; v1.03 improved description
+
+-changed name and description of Demon's Prank to Will-o-wisp to describe new effect with lore context
+
+-added description of Soul of a Tardigrade to describe item with lore context
+
+-changed description of Secret Throwing Dagger for more accuracy
+
+-changed description of Pickaxe for more accuracy
+
+-changed name and description of Hidden Soul to Emit Force to describe new effect with lore context
+
+-added description of Brain of a Mindflayer to describe item with lore context
+
+-v1.03 further changed descriptions of Sanctified Talisman and Ring of Sincere Prayer to indicate the new hyperarmor effect for miracles cast with them on
+
+-v1.05 improved descriptions of several weapons, armor pieces, and rings
+
+-v1.05 merged the text of two dev messages in the Nexus into one, edited the redundant message to include basic weapon upgrade breakpoints, and moved it next to Boldwin
+
+-v1.06 shortened the healing formulas in all grass item descriptions
+
+-v1.06 shortened the text of several spells and miracles to better align in menus
+
+-v1.07 fixed typo in the Will-o-Wisp spell description
+
+-v1.09 added status effect calculations in the descriptions of all relevant weapons
+
+-v1.09 added status effect calculations in the description of Kunai and Rotten Arrows
+
+-v1.09 emphasized status effect strength in description of Torpefy
+
+-v1.09 revised the desccription of Recovery to describe the new effect
+
+-v1.09 revised the description of Club to describe the new effect
+
+----------------------------------
+
+Icon Edits
+
+-changed color of Demon's Prank icon to appropriately represent the new Will-o-wisp spell
+
+-created custom icon for Flame Weapon
+
+-created custom icon for Torpefy
+
+-changed Sludge Toss icon to green skull
+
+-changed icon for Sanctified Talisman to red talisman icon
+
+-created custom icon for Rock Throw
+
+-slightly changed color of Anti-Magic Barrier icon to be more green
+
+-created custom icon for 5-2 swamp roll mechanic
+
+-created custom icon for Emit Force
+
+-created custom game thumbnail for mod to replace vanilla thumbnail
+
+-v1.09 changed status symbols for many spell/miracle/weapon/ring status effects to their menu icons for aesthetic improvement and greater effect specificity
+
+-v1.09 created custom icon for Soul Spear
+
+-v1.09 changed Voidstone icon to cut-content icon for Large Clearstone Shard
+
+----------------------------------
+
+Starting Classes
+
+-reduced Soldier class Magic and Luck stats
+
+-increased Soldier class Vitality, Intelligence, and Dexterity
+
+-reduced Magician class Endurance and Luck
+
+-increased Magician class Vitality, Intelligence, Strength, Dexterity, and Magic
+
+-reduced Barbarian class Magic, Faith, and Luck
+
+-increased Barbarian class Vitality, Endurance, and Strength
+
+-reduced Hunter class Magic and Luck
+
+-increased Hunter class Endurance and Dexterity
+
+-replaced Hunter class Battle Axe with Scimitar, moved bow to left hand subweapon, and added Secret Dagger to right hand subweapon
+
+-increased Thief class Intelligence, Endurance, and Dexterity
+
+-decreased Thief class Strength, Faith, and Luck
+
+-replaced Thief class Buckler with Claws, added Silver Catalyst to left hand subweapon, and added Demon's Prank and Cloak to spell slots
+
+-renamed Thief class to Assassin
+
+-increased Wanderer class Intelligence, Magic, and Faith
+
+-decreased Wanderer class Endurance, Strength, Dexterity, and Luck
+
+-renamed Wanderer class to Arcanist and replaced Falchion with Broken Sword, removed Dagger right hand subweapon, added Wooden Catalyst to left hand subweapon, and added Enchant Weapon to spell slot; v1.09 removed Enchant Weapon spell and gave starting class 6 Black Turpentine and 6 Sticky White Stuff
+
+-added 2 Fresh Spice to Arcanist starting inventory
+
+-replaced Barbarian Wooden Shield with Slave's Shield
+
+-moved Royalty silver catalyst to left hand
+
+-moved Magician wooden catalyst to left hand
+
+-replaced Temple Knight "Antidote" (Flame Weapon) with Evacuate
+
+-increased Priest class faith to 16, reduced vit to 9, reduced int to 10, reduced strength to 12, and moved talisman to left hand; v1.09 changed Flame Weapon for Evacuate
+
+-v1.09 removed second starting Club from Barbarian class
+
+-v1.09 changed Hunter starting Scimitar to Handaxe
+
+----------------------------------
+
+Maps
+
+-changed some enemy placement in 1-1
+
+-changed some enemy placement in 1-2
+
+-changed some enemy placement in 1-3
+
+-changed some enemy placement in 2-1
+
+-changed some enemy placement in 2-2
+
+-changed some enemy placement in 3-2
+
+-added 2 hidden scale miners in the Nexus
+
+-added 1 hidden scale miner Below the Nexus
+
+-added 3 hidden scale miners in 1-1
+
+-added 2 hidden scale miners in 1-2
+
+-added 2 hidden scale miners in 1-3
+
+-added 2 hidden scale miners in 1-4
+
+-added 1 hidden scale miner in 2-3
+
+-added 6 hidden scale miners in 3-1
+
+-added 9 hidden scale miners in 3-2
+
+-added 2 hidden scale miners in 3-3 (only one visible)
+
+-added 2 hidden scale miners in 4-1
+
+-added 3 hidden scale miners in 4-2
+
+-added 1 hidden scale miner in 4-3
+
+-added 3 hidden scale miners in 5-1
+
+-added 8 hidden scale miners in 5-2
+
+-added 1 hidden scale miner in 5-3
+
+-changed the text and/or locations of some developer messages in the Nexus and Stonefang
+
+-added enemies in some low-density areas in various maps
+
+-changed loot from Crescent Moon Grass to Soul of a Miner in 2-1
+
+-changed loot for dagger corpse in 4-2
+
+-removed chairs from Old Monk boss room and added new objects around pillars
+
+-changed loot from Blessed Mace+1 in 5-1 to 12 Crescent Moon Grass
+
+-changed loot from Thief's ring in 5-2 to Blessed Mace+1
+
+-changed loot from Crescent Falchion in 4-1 to Stone of Ephemeral Eyes
+
+-changed loot from Crescent Moon Grass in 4-2 to Crescent Falchion+1
+
+-changed loot from Fabled Hero's Soul in 4-3 to Morion Blade
+
+-moved 1-1 Spear Knight to platform with Light Crossbow
+
+-moved 2-2 male NPC black phantom to 1-1 outside mausoleum door
+
+-changed loot from Crescent Moon Grass in 5-1 to False Moonlight
+
+-changed loot from New Moon Grass to Tardigrade's Soul in 2-3
+
+-moved 5-2 Nameless Soldier Soul corpse near new NPC black phantom, added wood debris for the corpse to lean against, and changed loot to Colorless Demon Soul
+
+-moved two treasure corpses in 3-1 swamp closer to black phantom Yurt
+
+-moved some objects in 1-1, as well as some treasure corpses
+
+-added a few more enemies in 1-2
+
+-v1.03 added a few more enemies around 5-2, improved loot on Giant Depraved Island, and brightened light around corpse near Disciple of God NPC black phantom
+
+-v1.03 changed corpse loot in 5-1 pure white world tendency area to Colorless Demon Soul
+
+-v1.03 changed corpse loot in 3-1 area around Rydell's corpse to Colorless Demon Soul
+
+-v1.03 changed corpse loot in Yuria's tower in 1-3 to Colorless Demon Soul
+
+-v1.04 added new platforming area in 5-2
+
+-v1.04 changed corpse loot in 5-2 to Pure Bladestone
+
+-v1.05 added two more scale miners in 1-1 in areas where Rock Throw was silent
+
+-v1.05 moved the 3-3 archstone back so the boss room can be used for boss room duels without obstructions
+
+-v1.08 replaced the world-tendency-tied debris blocking the Dragon Bone Smasher in 2-3 with breakable debris
+
+-v1.08 made the world-tendency-tied bridge in 3-2 permanent
+
+-v1.08 made 4-2 world-tendency-tied treasure (Makoto in pure white tendency) accessible in all world tendencies except pure white
+
+-v1.08 moved one of the treasure corpses in 5-2 and increased the grass quantity it holds
+
+-v1.09 changed corpse loot in Tutorial level 3 to Fatal Dagger+1
+
+-v1.09 added more enemies to 1-2, 1-3, 3-1, 4-1, 4-2, 5-1, 5-2
+
+-v1.09 added 2 explosive barrel traps in 2-1
+
+-v1.09 added another scale miner to 1-1 in an area where Rock Throw was silent
+
+-v1.09 moved some enemies in 4-2
+
+-v1.09 changed the NPC param ID's for some enemies in 3-1 to a different enemy type
+
+-v1.09 changed corpse loot for several locations in 3-1
+
+-v1.09 increased quantity of grass obtained from corpses in all 5 archstones
+
+-v1.09 shuffled the openable iron maidens in 3-1 to slightly different locations
+
+-v1.09 fixed a platforming area in 2-2 with bad collision, moved the adjacent loot corpse for a longer beam walk, and changed the loot for the two adjacent corpses to a Colorless Demon Soul and the Cat Ring
+
+-v1.09 added Dragonstone, Greystone, Brimstone, Greystone, Spiderstone, and Clearstone ores to 2-1 Bag Scale Miner drops
+
+-v1.09 changed corpse loot on 1-1 balcony with Scale Miner to Shard of Darksteel
+
+-v1.09 changed 1-4 loot from Legendary Soldier soul to Pure Darksteel
+
+-v1.09 changed 1-4 loot from Legendary Soldier soul to Legendary Hero soul
+
+-v1.09 changed 2-2 loot in lava pit to Pure Brimstone
+
+-v1.09 changed 2-2 loot from 2 chunks of Dragonstone to 4 chunks
+
+-v1.09 changed 2-2 loot from 2 chunks Dragonstone to 2 chunks Brimstone
+
+-v1.09 changed 5-3 loot from Stone of Ephemeral Eyes to Pure Shadestone
+
+-v1.09 changed 1-3 loot from Full Moon Grass to Chunk of Darksteel
+
+-v1.09 updated dev messages to account for changes to upgrades and scale miner count
+
+-v1.09 changed 1-3 corpse loot from Slave Shield to Mambele
+
+-v1.09 changed 1-1 loot below blue dragon from Full Moon Grass to Broadhead Spear
+
+-v1.09 slightly rearranged the explosive barrels on one of the 1-1 balconies
+
+----------------------------------
+
+Bug fixes:
+
+-v1.02 fixed bug with catalyst and talisman kicks granting i-frames
+
+-v1.05 fixed bug where Soul Thirst wasn't buffing spells and miracles
+
+-v1.05 fixed bug that gave Rock Throw friendly fire
+
+-v1.05 fixed bug where Needle of Eternal Agony still had a stat requirement for magic
+
+-v1.05 fixed bug where second hit of curved sword push attacks did not have active hitboxes
+
+-v1.07.1 added missing visual effect to the ultra greatsword moveset
+
+-v1.08.1 fixed a bug where one of the 3-2 NPC black phantoms was not loading in properly
+
+-v1.08.1 fixed a bug where the character ID for the 4-2 NPC black phantom was incorrect
+
+-v1.09 fixed a broken enemy ambush in 2-1
+
+-v1.09 fixed a bug where a few enemies in 1-3 would not load in
+
+-v1.09 fixed a bug where some enemies in 5-2 were sometimes falling through the map
+
+-v1.09 fixed the table on the 1-1 Red Eyes Knight balcony that was invisible
+
+-v1.09 fixed the location of the explosive barrels in 1-1 in the stairwell so that they are no longer floating
+
+----------------------------------
+
+
+Ideas for later:
+
+-sfx 14032 soul effect, ~23210 soul effect
+
+Add new world tendency control method:
+-small WT gains from killing normal enemies and large losses from killing scale miners?
+-friendly scale miner NPCParamId = 211015
+-need to create a dummy copy for just the friendly ones to apply tendencies, then possibly a black phantom miniboss in each world?
+
+Add lava geckos to lava river or more winged tardigrades
+
+Add more knights to world 1, especially claymore variant (ex. in front of yuria's tower)
+
+Add more shamans to 5-2? Or increase faintstone drop rates
+
+Adjust rarity of shards vs chunks vs pures for all 3 new ores
+
+Play around with black phantom versions of normal enemies? Add more black phantom enemies around each map for black tendency?ProjectAstri_LostSoulArtsMod_v1.09
+
+
+Weapons
+
+-reduced upgraded Dragon Bone Smasher base AR to 200
+
+-increased Dragon Bone Smasher strength scaling with upgrade
+
+-reduced Bramd weight to 24
+
+-reduced Bramd base AR to 200
+
+-increased Bramd strength scaling with upgrade
+
+-reduced weight for all Guillotine Axe variants to 3.5
+
+-reduced repair cost to cap at 3 souls per durability point
+
+-reduced strength and dex scaling for Epee Rapier to 0
+
+-reduced Epee Rapier dex req to 12
+
+-increased Epee Rapier base Fire AR to 110
+
+-reduced Istarelle dex req to 14
+
+-reduced Istarelle strength and dex scaling to 0
+
+-increased Istarelle base Magic AR to 120
+
+-increased Large Sword of Moonlight base Magic AR to 110
+
+-reduced Scraping Spear corrosion effect to 5 durability per hit
+
+-increased base AR of all Short Bow variants and upgrades
+
+-reduced base AR of all Long Bow variants and upgrades
+
+-increased range of Short Bow for normal and quality upgrades
+
+-reduced range of Compound Short Bow for sticky upgrade
+
+-reduced range of all Compound Long Bow variants
+
+-increased strength scaling of all Quality upgraded bows
+
+-reduced White Bow base physical AR to 20
+
+-increased White Bow base magic AR to 60
+
+-reduced White Bow strength and dexterity scaling to 0
+
+-increased White Bow faith requirement to 24
+
+-increased White Bow faith scaling to 70 + (20*upgrade level)
+
+-reduced White Bow strength requirement to 18
+
+-reduced White Bow dex requirement to 14
+
+-reduced White Bow range to 30
+
+-reduced Lava Bow base physical AR to 20
+
+-reduced Lava Bow base fire AR to 80
+
+-reduced Lava Bow strength and dexterity scaling to 0
+
+-increased Lava Bow magic scaling to 160
+
+-reduced Lava Bow strength requirement to 16
+
+-reduced Lava Bow dex requirement to 14
 a
 -reduced all Dragon weapon physical base AR by ~59%, fire base AR by ~18%, and enabled Luck scaling
 
