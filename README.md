@@ -26,6 +26,12 @@ What's in Lost Soul Arts:
 
 -Most weapons rebalanced/revamped
 
+-Restored cut-content weapons
+
+-Repurposed three cut-content ore types for new melee weapon upgrade paths
+
+-Restored cut-content Rigid bow upgrade path
+
 -Improved starting classes
 
 -Modified function/scaling of some upgrade paths for improved build diversity
@@ -42,17 +48,21 @@ What's in Lost Soul Arts:
 
 -Changed some treasure locations and NPC loot
 
+-Increased value of most consumable souls and several boss souls
+
 -Reduced weight of ore and many consumables to 0
 
 -Changed the movement properties of the poison swamp in the Valley of Defilement
 
 -Modified some dev messages in the Nexus and Stonefang to aid players new to the mod and/or to the game
 
--Added friendly scale miners, who are hiding throughout Boletaria....
+-Added friendly scale miners, who are hiding throughout Boletaria, but beware slaying them....
+
+-Added 'Gravelord' enemies, who are hidden in each world, offering a boon to those who slay them
 
 -And so much more....
 
-Explore new progression paths. Use the respec item to experiment with character stats, make the most out of the new tools at your disposal, and adapt your loadout to conquer the greater challenges you face. Most importantly, journey through Boletaria with fresh eyes. Leave no stone unturned.
+Explore new progression paths. Use the respec item to experiment with character stats, make the most out of the new tools at your disposal, and adapt your loadout and strategy to conquer the greater challenges you face. Most importantly, journey through Boletaria with fresh eyes. Leave no stone unturned.
 
 ***Tip: Read item and weapon descriptions. A lot has changed. Some changes may not be immediately obvious.***
 
